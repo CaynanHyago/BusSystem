@@ -1,0 +1,276 @@
+F:\TCC maneiro msm\TCC 0.5\Negocios\bin\Debug\Negocios.dll
+F:\TCC maneiro msm\TCC 0.5\Negocios\bin\Debug\Negocios.pdb
+F:\TCC maneiro msm\TCC 0.5\Negocios\bin\Debug\ConectaBancoDados.dll
+F:\TCC maneiro msm\TCC 0.5\Negocios\bin\Debug\TransferenciasDeObjetos.dll
+F:\TCC maneiro msm\TCC 0.5\Negocios\bin\Debug\ConectaBancoDados.pdb
+F:\TCC maneiro msm\TCC 0.5\Negocios\bin\Debug\ConectaBancoDados.dll.config
+F:\TCC maneiro msm\TCC 0.5\Negocios\bin\Debug\TransferenciasDeObjetos.pdb
+F:\TCC maneiro msm\TCC 0.5\Negocios\obj\Debug\Negocios.csprojAssemblyReference.cache
+F:\TCC maneiro msm\TCC 0.5\Negocios\obj\Debug\Negocios.csproj.CoreCompileInputs.cache
+F:\TCC maneiro msm\TCC 0.5\Negocios\obj\Debug\Negocios.csproj.CopyComplete
+F:\TCC maneiro msm\TCC 0.5\Negocios\obj\Debug\Negocios.dll
+F:\TCC maneiro msm\TCC 0.5\Negocios\obj\Debug\Negocios.pdb
+F:\Etec\TCC maneiro msm\TCC 0.5\Negocios\bin\Debug\Negocios.dll
+F:\Etec\TCC maneiro msm\TCC 0.5\Negocios\bin\Debug\Negocios.pdb
+F:\Etec\TCC maneiro msm\TCC 0.5\Negocios\bin\Debug\ConectaBancoDados.dll
+F:\Etec\TCC maneiro msm\TCC 0.5\Negocios\bin\Debug\TransferenciasDeObjetos.dll
+F:\Etec\TCC maneiro msm\TCC 0.5\Negocios\bin\Debug\ConectaBancoDados.pdb
+F:\Etec\TCC maneiro msm\TCC 0.5\Negocios\bin\Debug\ConectaBancoDados.dll.config
+F:\Etec\TCC maneiro msm\TCC 0.5\Negocios\bin\Debug\TransferenciasDeObjetos.pdb
+F:\Etec\TCC maneiro msm\TCC 0.5\Negocios\obj\Debug\Negocios.csprojAssemblyReference.cache
+F:\Etec\TCC maneiro msm\TCC 0.5\Negocios\obj\Debug\Negocios.csproj.CoreCompileInputs.cache
+F:\Etec\TCC maneiro msm\TCC 0.5\Negocios\obj\Debug\Negocios.csproj.CopyComplete
+F:\Etec\TCC maneiro msm\TCC 0.5\Negocios\obj\Debug\Negocios.dll
+F:\Etec\TCC maneiro msm\TCC 0.5\Negocios\obj\Debug\Negocios.pdb
+F:\Etec\TCC maneiro msm\TCC 0.7\Negocios\bin\Debug\Negocios.dll
+F:\Etec\TCC maneiro msm\TCC 0.7\Negocios\bin\Debug\Negocios.pdb
+F:\Etec\TCC maneiro msm\TCC 0.7\Negocios\bin\Debug\ConectaBancoDados.dll
+F:\Etec\TCC maneiro msm\TCC 0.7\Negocios\bin\Debug\TransferenciasDeObjetos.dll
+F:\Etec\TCC maneiro msm\TCC 0.7\Negocios\bin\Debug\ConectaBancoDados.pdb
+F:\Etec\TCC maneiro msm\TCC 0.7\Negocios\bin\Debug\ConectaBancoDados.dll.config
+F:\Etec\TCC maneiro msm\TCC 0.7\Negocios\bin\Debug\TransferenciasDeObjetos.pdb
+F:\Etec\TCC maneiro msm\TCC 0.7\Negocios\obj\Debug\Negocios.csprojAssemblyReference.cache
+F:\Etec\TCC maneiro msm\TCC 0.7\Negocios\obj\Debug\Negocios.csproj.CoreCompileInputs.cache
+F:\Etec\TCC maneiro msm\TCC 0.7\Negocios\obj\Debug\Negocios.csproj.CopyComplete
+F:\Etec\TCC maneiro msm\TCC 0.7\Negocios\obj\Debug\Negocios.dll
+F:\Etec\TCC maneiro msm\TCC 0.7\Negocios\obj\Debug\Negocios.pdb
+G:\Etec\TCC maneiro msm\TCC 0.7\Negocios\bin\Debug\Negocios.dll
+G:\Etec\TCC maneiro msm\TCC 0.7\Negocios\bin\Debug\Negocios.pdb
+G:\Etec\TCC maneiro msm\TCC 0.7\Negocios\bin\Debug\ConectaBancoDados.dll
+G:\Etec\TCC maneiro msm\TCC 0.7\Negocios\bin\Debug\TransferenciasDeObjetos.dll
+G:\Etec\TCC maneiro msm\TCC 0.7\Negocios\bin\Debug\ConectaBancoDados.pdb
+G:\Etec\TCC maneiro msm\TCC 0.7\Negocios\bin\Debug\ConectaBancoDados.dll.config
+G:\Etec\TCC maneiro msm\TCC 0.7\Negocios\bin\Debug\TransferenciasDeObjetos.pdb
+G:\Etec\TCC maneiro msm\TCC 0.7\Negocios\obj\Debug\Negocios.csprojAssemblyReference.cache
+G:\Etec\TCC maneiro msm\TCC 0.7\Negocios\obj\Debug\Negocios.csproj.CoreCompileInputs.cache
+G:\Etec\TCC maneiro msm\TCC 0.7\Negocios\obj\Debug\Negocios.csproj.CopyComplete
+G:\Etec\TCC maneiro msm\TCC 0.7\Negocios\obj\Debug\Negocios.dll
+G:\Etec\TCC maneiro msm\TCC 0.7\Negocios\obj\Debug\Negocios.pdb
+C:\Users\Programador\Desktop\TCC 0.7\Negocios\bin\Debug\Negocios.dll
+C:\Users\Programador\Desktop\TCC 0.7\Negocios\bin\Debug\Negocios.pdb
+C:\Users\Programador\Desktop\TCC 0.7\Negocios\bin\Debug\ConectaBancoDados.dll
+C:\Users\Programador\Desktop\TCC 0.7\Negocios\bin\Debug\TransferenciasDeObjetos.dll
+C:\Users\Programador\Desktop\TCC 0.7\Negocios\bin\Debug\ConectaBancoDados.pdb
+C:\Users\Programador\Desktop\TCC 0.7\Negocios\bin\Debug\ConectaBancoDados.dll.config
+C:\Users\Programador\Desktop\TCC 0.7\Negocios\bin\Debug\TransferenciasDeObjetos.pdb
+C:\Users\Programador\Desktop\TCC 0.7\Negocios\obj\Debug\Negocios.csprojAssemblyReference.cache
+C:\Users\Programador\Desktop\TCC 0.7\Negocios\obj\Debug\Negocios.csproj.CoreCompileInputs.cache
+C:\Users\Programador\Desktop\TCC 0.7\Negocios\obj\Debug\Negocios.csproj.CopyComplete
+C:\Users\Programador\Desktop\TCC 0.7\Negocios\obj\Debug\Negocios.dll
+C:\Users\Programador\Desktop\TCC 0.7\Negocios\obj\Debug\Negocios.pdb
+F:\TCC C#\bkp tcc 0.7\TCC 1.0\TCC 1.0\Negocios\bin\Debug\Negocios.dll
+F:\TCC C#\bkp tcc 0.7\TCC 1.0\TCC 1.0\Negocios\bin\Debug\Negocios.pdb
+F:\TCC C#\bkp tcc 0.7\TCC 1.0\TCC 1.0\Negocios\bin\Debug\ConectaBancoDados.dll
+F:\TCC C#\bkp tcc 0.7\TCC 1.0\TCC 1.0\Negocios\bin\Debug\TransferenciasDeObjetos.dll
+F:\TCC C#\bkp tcc 0.7\TCC 1.0\TCC 1.0\Negocios\bin\Debug\ConectaBancoDados.pdb
+F:\TCC C#\bkp tcc 0.7\TCC 1.0\TCC 1.0\Negocios\bin\Debug\ConectaBancoDados.dll.config
+F:\TCC C#\bkp tcc 0.7\TCC 1.0\TCC 1.0\Negocios\bin\Debug\TransferenciasDeObjetos.pdb
+F:\TCC C#\bkp tcc 0.7\TCC 1.0\TCC 1.0\Negocios\obj\Debug\Negocios.csprojAssemblyReference.cache
+F:\TCC C#\bkp tcc 0.7\TCC 1.0\TCC 1.0\Negocios\obj\Debug\Negocios.csproj.CoreCompileInputs.cache
+F:\TCC C#\bkp tcc 0.7\TCC 1.0\TCC 1.0\Negocios\obj\Debug\Negocios.csproj.CopyComplete
+F:\TCC C#\bkp tcc 0.7\TCC 1.0\TCC 1.0\Negocios\obj\Debug\Negocios.dll
+F:\TCC C#\bkp tcc 0.7\TCC 1.0\TCC 1.0\Negocios\obj\Debug\Negocios.pdb
+E:\TCC C#\bkp tcc 0.7\TCC 1.0\TCC 1.0\Negocios\bin\Debug\Negocios.dll
+E:\TCC C#\bkp tcc 0.7\TCC 1.0\TCC 1.0\Negocios\bin\Debug\Negocios.pdb
+E:\TCC C#\bkp tcc 0.7\TCC 1.0\TCC 1.0\Negocios\bin\Debug\ConectaBancoDados.dll
+E:\TCC C#\bkp tcc 0.7\TCC 1.0\TCC 1.0\Negocios\bin\Debug\TransferenciasDeObjetos.dll
+E:\TCC C#\bkp tcc 0.7\TCC 1.0\TCC 1.0\Negocios\bin\Debug\ConectaBancoDados.pdb
+E:\TCC C#\bkp tcc 0.7\TCC 1.0\TCC 1.0\Negocios\bin\Debug\ConectaBancoDados.dll.config
+E:\TCC C#\bkp tcc 0.7\TCC 1.0\TCC 1.0\Negocios\bin\Debug\TransferenciasDeObjetos.pdb
+E:\TCC C#\bkp tcc 0.7\TCC 1.0\TCC 1.0\Negocios\obj\Debug\Negocios.csprojAssemblyReference.cache
+E:\TCC C#\bkp tcc 0.7\TCC 1.0\TCC 1.0\Negocios\obj\Debug\Negocios.csproj.CoreCompileInputs.cache
+E:\TCC C#\bkp tcc 0.7\TCC 1.0\TCC 1.0\Negocios\obj\Debug\Negocios.csproj.CopyComplete
+E:\TCC C#\bkp tcc 0.7\TCC 1.0\TCC 1.0\Negocios\obj\Debug\Negocios.dll
+E:\TCC C#\bkp tcc 0.7\TCC 1.0\TCC 1.0\Negocios\obj\Debug\Negocios.pdb
+C:\Users\Aluno\Desktop\TCC C#\bkp tcc 0.7\TCC 1.0\TCC 1.0\Negocios\bin\Debug\Negocios.dll
+C:\Users\Aluno\Desktop\TCC C#\bkp tcc 0.7\TCC 1.0\TCC 1.0\Negocios\bin\Debug\Negocios.pdb
+C:\Users\Aluno\Desktop\TCC C#\bkp tcc 0.7\TCC 1.0\TCC 1.0\Negocios\bin\Debug\ConectaBancoDados.dll
+C:\Users\Aluno\Desktop\TCC C#\bkp tcc 0.7\TCC 1.0\TCC 1.0\Negocios\bin\Debug\TransferenciasDeObjetos.dll
+C:\Users\Aluno\Desktop\TCC C#\bkp tcc 0.7\TCC 1.0\TCC 1.0\Negocios\bin\Debug\ConectaBancoDados.pdb
+C:\Users\Aluno\Desktop\TCC C#\bkp tcc 0.7\TCC 1.0\TCC 1.0\Negocios\bin\Debug\ConectaBancoDados.dll.config
+C:\Users\Aluno\Desktop\TCC C#\bkp tcc 0.7\TCC 1.0\TCC 1.0\Negocios\bin\Debug\TransferenciasDeObjetos.pdb
+C:\Users\Aluno\Desktop\TCC C#\bkp tcc 0.7\TCC 1.0\TCC 1.0\Negocios\obj\Debug\Negocios.csprojAssemblyReference.cache
+C:\Users\Aluno\Desktop\TCC C#\bkp tcc 0.7\TCC 1.0\TCC 1.0\Negocios\obj\Debug\Negocios.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Desktop\TCC C#\bkp tcc 0.7\TCC 1.0\TCC 1.0\Negocios\obj\Debug\Negocios.csproj.CopyComplete
+C:\Users\Aluno\Desktop\TCC C#\bkp tcc 0.7\TCC 1.0\TCC 1.0\Negocios\obj\Debug\Negocios.dll
+C:\Users\Aluno\Desktop\TCC C#\bkp tcc 0.7\TCC 1.0\TCC 1.0\Negocios\obj\Debug\Negocios.pdb
+F:\faz saporra ai gomes\TCC C#\bkp tcc 0.7\TCC 1.0\TCC 1.0\Negocios\bin\Debug\Negocios.dll
+F:\faz saporra ai gomes\TCC C#\bkp tcc 0.7\TCC 1.0\TCC 1.0\Negocios\bin\Debug\Negocios.pdb
+F:\faz saporra ai gomes\TCC C#\bkp tcc 0.7\TCC 1.0\TCC 1.0\Negocios\bin\Debug\ConectaBancoDados.dll
+F:\faz saporra ai gomes\TCC C#\bkp tcc 0.7\TCC 1.0\TCC 1.0\Negocios\bin\Debug\TransferenciasDeObjetos.dll
+F:\faz saporra ai gomes\TCC C#\bkp tcc 0.7\TCC 1.0\TCC 1.0\Negocios\bin\Debug\ConectaBancoDados.pdb
+F:\faz saporra ai gomes\TCC C#\bkp tcc 0.7\TCC 1.0\TCC 1.0\Negocios\bin\Debug\ConectaBancoDados.dll.config
+F:\faz saporra ai gomes\TCC C#\bkp tcc 0.7\TCC 1.0\TCC 1.0\Negocios\bin\Debug\TransferenciasDeObjetos.pdb
+F:\faz saporra ai gomes\TCC C#\bkp tcc 0.7\TCC 1.0\TCC 1.0\Negocios\obj\Debug\Negocios.csprojAssemblyReference.cache
+F:\faz saporra ai gomes\TCC C#\bkp tcc 0.7\TCC 1.0\TCC 1.0\Negocios\obj\Debug\Negocios.csproj.CoreCompileInputs.cache
+F:\faz saporra ai gomes\TCC C#\bkp tcc 0.7\TCC 1.0\TCC 1.0\Negocios\obj\Debug\Negocios.csproj.CopyComplete
+F:\faz saporra ai gomes\TCC C#\bkp tcc 0.7\TCC 1.0\TCC 1.0\Negocios\obj\Debug\Negocios.dll
+F:\faz saporra ai gomes\TCC C#\bkp tcc 0.7\TCC 1.0\TCC 1.0\Negocios\obj\Debug\Negocios.pdb
+F:\TCC 1.0.1\TCC C#\bkp tcc 0.7\TCC 1.0\TCC 1.0\Negocios\bin\Debug\Negocios.dll
+F:\TCC 1.0.1\TCC C#\bkp tcc 0.7\TCC 1.0\TCC 1.0\Negocios\bin\Debug\Negocios.pdb
+F:\TCC 1.0.1\TCC C#\bkp tcc 0.7\TCC 1.0\TCC 1.0\Negocios\bin\Debug\ConectaBancoDados.dll
+F:\TCC 1.0.1\TCC C#\bkp tcc 0.7\TCC 1.0\TCC 1.0\Negocios\bin\Debug\TransferenciasDeObjetos.dll
+F:\TCC 1.0.1\TCC C#\bkp tcc 0.7\TCC 1.0\TCC 1.0\Negocios\bin\Debug\ConectaBancoDados.pdb
+F:\TCC 1.0.1\TCC C#\bkp tcc 0.7\TCC 1.0\TCC 1.0\Negocios\bin\Debug\ConectaBancoDados.dll.config
+F:\TCC 1.0.1\TCC C#\bkp tcc 0.7\TCC 1.0\TCC 1.0\Negocios\bin\Debug\TransferenciasDeObjetos.pdb
+F:\TCC 1.0.1\TCC C#\bkp tcc 0.7\TCC 1.0\TCC 1.0\Negocios\obj\Debug\Negocios.csprojAssemblyReference.cache
+F:\TCC 1.0.1\TCC C#\bkp tcc 0.7\TCC 1.0\TCC 1.0\Negocios\obj\Debug\Negocios.csproj.CoreCompileInputs.cache
+F:\TCC 1.0.1\TCC C#\bkp tcc 0.7\TCC 1.0\TCC 1.0\Negocios\obj\Debug\Negocios.csproj.CopyComplete
+F:\TCC 1.0.1\TCC C#\bkp tcc 0.7\TCC 1.0\TCC 1.0\Negocios\obj\Debug\Negocios.dll
+F:\TCC 1.0.1\TCC C#\bkp tcc 0.7\TCC 1.0\TCC 1.0\Negocios\obj\Debug\Negocios.pdb
+E:\Versão TCC's\TCC 1.0.2\TCC C#\bkp tcc 0.7\TCC 1.0\TCC 1.0\Negocios\bin\Debug\Negocios.dll
+E:\Versão TCC's\TCC 1.0.2\TCC C#\bkp tcc 0.7\TCC 1.0\TCC 1.0\Negocios\bin\Debug\Negocios.pdb
+E:\Versão TCC's\TCC 1.0.2\TCC C#\bkp tcc 0.7\TCC 1.0\TCC 1.0\Negocios\bin\Debug\ConectaBancoDados.dll
+E:\Versão TCC's\TCC 1.0.2\TCC C#\bkp tcc 0.7\TCC 1.0\TCC 1.0\Negocios\bin\Debug\TransferenciasDeObjetos.dll
+E:\Versão TCC's\TCC 1.0.2\TCC C#\bkp tcc 0.7\TCC 1.0\TCC 1.0\Negocios\bin\Debug\ConectaBancoDados.pdb
+E:\Versão TCC's\TCC 1.0.2\TCC C#\bkp tcc 0.7\TCC 1.0\TCC 1.0\Negocios\bin\Debug\ConectaBancoDados.dll.config
+E:\Versão TCC's\TCC 1.0.2\TCC C#\bkp tcc 0.7\TCC 1.0\TCC 1.0\Negocios\bin\Debug\TransferenciasDeObjetos.pdb
+E:\Versão TCC's\TCC 1.0.2\TCC C#\bkp tcc 0.7\TCC 1.0\TCC 1.0\Negocios\obj\Debug\Negocios.csprojAssemblyReference.cache
+E:\Versão TCC's\TCC 1.0.2\TCC C#\bkp tcc 0.7\TCC 1.0\TCC 1.0\Negocios\obj\Debug\Negocios.csproj.CoreCompileInputs.cache
+E:\Versão TCC's\TCC 1.0.2\TCC C#\bkp tcc 0.7\TCC 1.0\TCC 1.0\Negocios\obj\Debug\Negocios.csproj.CopyComplete
+E:\Versão TCC's\TCC 1.0.2\TCC C#\bkp tcc 0.7\TCC 1.0\TCC 1.0\Negocios\obj\Debug\Negocios.dll
+E:\Versão TCC's\TCC 1.0.2\TCC C#\bkp tcc 0.7\TCC 1.0\TCC 1.0\Negocios\obj\Debug\Negocios.pdb
+D:\Versão TCC's\TCC 1.0.2\TCC C#\bkp tcc 0.7\TCC 1.0\TCC 1.0\Negocios\bin\Debug\Negocios.dll
+D:\Versão TCC's\TCC 1.0.2\TCC C#\bkp tcc 0.7\TCC 1.0\TCC 1.0\Negocios\bin\Debug\Negocios.pdb
+D:\Versão TCC's\TCC 1.0.2\TCC C#\bkp tcc 0.7\TCC 1.0\TCC 1.0\Negocios\bin\Debug\ConectaBancoDados.dll
+D:\Versão TCC's\TCC 1.0.2\TCC C#\bkp tcc 0.7\TCC 1.0\TCC 1.0\Negocios\bin\Debug\TransferenciasDeObjetos.dll
+D:\Versão TCC's\TCC 1.0.2\TCC C#\bkp tcc 0.7\TCC 1.0\TCC 1.0\Negocios\bin\Debug\ConectaBancoDados.pdb
+D:\Versão TCC's\TCC 1.0.2\TCC C#\bkp tcc 0.7\TCC 1.0\TCC 1.0\Negocios\bin\Debug\ConectaBancoDados.dll.config
+D:\Versão TCC's\TCC 1.0.2\TCC C#\bkp tcc 0.7\TCC 1.0\TCC 1.0\Negocios\bin\Debug\TransferenciasDeObjetos.pdb
+D:\Versão TCC's\TCC 1.0.2\TCC C#\bkp tcc 0.7\TCC 1.0\TCC 1.0\Negocios\obj\Debug\Negocios.csprojAssemblyReference.cache
+D:\Versão TCC's\TCC 1.0.2\TCC C#\bkp tcc 0.7\TCC 1.0\TCC 1.0\Negocios\obj\Debug\Negocios.csproj.CoreCompileInputs.cache
+D:\Versão TCC's\TCC 1.0.2\TCC C#\bkp tcc 0.7\TCC 1.0\TCC 1.0\Negocios\obj\Debug\Negocios.csproj.CopyComplete
+D:\Versão TCC's\TCC 1.0.2\TCC C#\bkp tcc 0.7\TCC 1.0\TCC 1.0\Negocios\obj\Debug\Negocios.dll
+D:\Versão TCC's\TCC 1.0.2\TCC C#\bkp tcc 0.7\TCC 1.0\TCC 1.0\Negocios\obj\Debug\Negocios.pdb
+F:\Versão TCC's\TCC 1.0.2\TCC C#\bkp tcc 0.7\TCC 1.0\TCC 1.0\Negocios\bin\Debug\Negocios.dll
+F:\Versão TCC's\TCC 1.0.2\TCC C#\bkp tcc 0.7\TCC 1.0\TCC 1.0\Negocios\bin\Debug\Negocios.pdb
+F:\Versão TCC's\TCC 1.0.2\TCC C#\bkp tcc 0.7\TCC 1.0\TCC 1.0\Negocios\bin\Debug\ConectaBancoDados.dll
+F:\Versão TCC's\TCC 1.0.2\TCC C#\bkp tcc 0.7\TCC 1.0\TCC 1.0\Negocios\bin\Debug\TransferenciasDeObjetos.dll
+F:\Versão TCC's\TCC 1.0.2\TCC C#\bkp tcc 0.7\TCC 1.0\TCC 1.0\Negocios\bin\Debug\ConectaBancoDados.pdb
+F:\Versão TCC's\TCC 1.0.2\TCC C#\bkp tcc 0.7\TCC 1.0\TCC 1.0\Negocios\bin\Debug\ConectaBancoDados.dll.config
+F:\Versão TCC's\TCC 1.0.2\TCC C#\bkp tcc 0.7\TCC 1.0\TCC 1.0\Negocios\bin\Debug\TransferenciasDeObjetos.pdb
+F:\Versão TCC's\TCC 1.0.2\TCC C#\bkp tcc 0.7\TCC 1.0\TCC 1.0\Negocios\obj\Debug\Negocios.csprojAssemblyReference.cache
+F:\Versão TCC's\TCC 1.0.2\TCC C#\bkp tcc 0.7\TCC 1.0\TCC 1.0\Negocios\obj\Debug\Negocios.csproj.CoreCompileInputs.cache
+F:\Versão TCC's\TCC 1.0.2\TCC C#\bkp tcc 0.7\TCC 1.0\TCC 1.0\Negocios\obj\Debug\Negocios.csproj.CopyComplete
+F:\Versão TCC's\TCC 1.0.2\TCC C#\bkp tcc 0.7\TCC 1.0\TCC 1.0\Negocios\obj\Debug\Negocios.dll
+F:\Versão TCC's\TCC 1.0.2\TCC C#\bkp tcc 0.7\TCC 1.0\TCC 1.0\Negocios\obj\Debug\Negocios.pdb
+C:\Users\erisv\OneDrive\Área de Trabalho\TCC 1.0\Negocios\bin\Debug\Negocios.dll
+C:\Users\erisv\OneDrive\Área de Trabalho\TCC 1.0\Negocios\bin\Debug\Negocios.pdb
+C:\Users\erisv\OneDrive\Área de Trabalho\TCC 1.0\Negocios\bin\Debug\ConectaBancoDados.dll
+C:\Users\erisv\OneDrive\Área de Trabalho\TCC 1.0\Negocios\bin\Debug\TransferenciasDeObjetos.dll
+C:\Users\erisv\OneDrive\Área de Trabalho\TCC 1.0\Negocios\bin\Debug\ConectaBancoDados.pdb
+C:\Users\erisv\OneDrive\Área de Trabalho\TCC 1.0\Negocios\bin\Debug\ConectaBancoDados.dll.config
+C:\Users\erisv\OneDrive\Área de Trabalho\TCC 1.0\Negocios\bin\Debug\TransferenciasDeObjetos.pdb
+C:\Users\erisv\OneDrive\Área de Trabalho\TCC 1.0\Negocios\obj\Debug\Negocios.csprojAssemblyReference.cache
+C:\Users\erisv\OneDrive\Área de Trabalho\TCC 1.0\Negocios\obj\Debug\Negocios.csproj.CoreCompileInputs.cache
+C:\Users\erisv\OneDrive\Área de Trabalho\TCC 1.0\Negocios\obj\Debug\Negocios.csproj.CopyComplete
+C:\Users\erisv\OneDrive\Área de Trabalho\TCC 1.0\Negocios\obj\Debug\Negocios.dll
+C:\Users\erisv\OneDrive\Área de Trabalho\TCC 1.0\Negocios\obj\Debug\Negocios.pdb
+C:\Users\erisv\OneDrive\Área de Trabalho\TCC 1.0.4\Negocios\bin\Debug\Negocios.dll
+C:\Users\erisv\OneDrive\Área de Trabalho\TCC 1.0.4\Negocios\bin\Debug\Negocios.pdb
+C:\Users\erisv\OneDrive\Área de Trabalho\TCC 1.0.4\Negocios\bin\Debug\ConectaBancoDados.dll
+C:\Users\erisv\OneDrive\Área de Trabalho\TCC 1.0.4\Negocios\bin\Debug\TransferenciasDeObjetos.dll
+C:\Users\erisv\OneDrive\Área de Trabalho\TCC 1.0.4\Negocios\bin\Debug\ConectaBancoDados.pdb
+C:\Users\erisv\OneDrive\Área de Trabalho\TCC 1.0.4\Negocios\bin\Debug\ConectaBancoDados.dll.config
+C:\Users\erisv\OneDrive\Área de Trabalho\TCC 1.0.4\Negocios\bin\Debug\TransferenciasDeObjetos.pdb
+C:\Users\erisv\OneDrive\Área de Trabalho\TCC 1.0.4\Negocios\obj\Debug\Negocios.csprojAssemblyReference.cache
+C:\Users\erisv\OneDrive\Área de Trabalho\TCC 1.0.4\Negocios\obj\Debug\Negocios.csproj.CoreCompileInputs.cache
+C:\Users\erisv\OneDrive\Área de Trabalho\TCC 1.0.4\Negocios\obj\Debug\Negocios.csproj.CopyComplete
+C:\Users\erisv\OneDrive\Área de Trabalho\TCC 1.0.4\Negocios\obj\Debug\Negocios.dll
+C:\Users\erisv\OneDrive\Área de Trabalho\TCC 1.0.4\Negocios\obj\Debug\Negocios.pdb
+F:\TCC 1.0.5\Negocios\bin\Debug\Negocios.dll
+F:\TCC 1.0.5\Negocios\bin\Debug\Negocios.pdb
+F:\TCC 1.0.5\Negocios\bin\Debug\ConectaBancoDados.dll
+F:\TCC 1.0.5\Negocios\bin\Debug\TransferenciasDeObjetos.dll
+F:\TCC 1.0.5\Negocios\bin\Debug\ConectaBancoDados.pdb
+F:\TCC 1.0.5\Negocios\bin\Debug\ConectaBancoDados.dll.config
+F:\TCC 1.0.5\Negocios\bin\Debug\TransferenciasDeObjetos.pdb
+F:\TCC 1.0.5\Negocios\obj\Debug\Negocios.csprojAssemblyReference.cache
+F:\TCC 1.0.5\Negocios\obj\Debug\Negocios.csproj.CoreCompileInputs.cache
+F:\TCC 1.0.5\Negocios\obj\Debug\Negocios.csproj.CopyComplete
+F:\TCC 1.0.5\Negocios\obj\Debug\Negocios.dll
+F:\TCC 1.0.5\Negocios\obj\Debug\Negocios.pdb
+C:\Users\erisv\OneDrive\Área de Trabalho\TCC 1.0.5\Negocios\bin\Debug\Negocios.dll
+C:\Users\erisv\OneDrive\Área de Trabalho\TCC 1.0.5\Negocios\bin\Debug\Negocios.pdb
+C:\Users\erisv\OneDrive\Área de Trabalho\TCC 1.0.5\Negocios\bin\Debug\ConectaBancoDados.dll
+C:\Users\erisv\OneDrive\Área de Trabalho\TCC 1.0.5\Negocios\bin\Debug\TransferenciasDeObjetos.dll
+C:\Users\erisv\OneDrive\Área de Trabalho\TCC 1.0.5\Negocios\bin\Debug\ConectaBancoDados.pdb
+C:\Users\erisv\OneDrive\Área de Trabalho\TCC 1.0.5\Negocios\bin\Debug\ConectaBancoDados.dll.config
+C:\Users\erisv\OneDrive\Área de Trabalho\TCC 1.0.5\Negocios\bin\Debug\TransferenciasDeObjetos.pdb
+C:\Users\erisv\OneDrive\Área de Trabalho\TCC 1.0.5\Negocios\obj\Debug\Negocios.csprojAssemblyReference.cache
+C:\Users\erisv\OneDrive\Área de Trabalho\TCC 1.0.5\Negocios\obj\Debug\Negocios.csproj.CoreCompileInputs.cache
+C:\Users\erisv\OneDrive\Área de Trabalho\TCC 1.0.5\Negocios\obj\Debug\Negocios.csproj.CopyComplete
+C:\Users\erisv\OneDrive\Área de Trabalho\TCC 1.0.5\Negocios\obj\Debug\Negocios.dll
+C:\Users\erisv\OneDrive\Área de Trabalho\TCC 1.0.5\Negocios\obj\Debug\Negocios.pdb
+C:\Users\erisv\OneDrive\Área de Trabalho\TCC 1.0.6\Negocios\bin\Debug\Negocios.dll
+C:\Users\erisv\OneDrive\Área de Trabalho\TCC 1.0.6\Negocios\bin\Debug\Negocios.pdb
+C:\Users\erisv\OneDrive\Área de Trabalho\TCC 1.0.6\Negocios\bin\Debug\ConectaBancoDados.dll
+C:\Users\erisv\OneDrive\Área de Trabalho\TCC 1.0.6\Negocios\bin\Debug\TransferenciasDeObjetos.dll
+C:\Users\erisv\OneDrive\Área de Trabalho\TCC 1.0.6\Negocios\bin\Debug\ConectaBancoDados.pdb
+C:\Users\erisv\OneDrive\Área de Trabalho\TCC 1.0.6\Negocios\bin\Debug\ConectaBancoDados.dll.config
+C:\Users\erisv\OneDrive\Área de Trabalho\TCC 1.0.6\Negocios\bin\Debug\TransferenciasDeObjetos.pdb
+C:\Users\erisv\OneDrive\Área de Trabalho\TCC 1.0.6\Negocios\obj\Debug\Negocios.csprojAssemblyReference.cache
+C:\Users\erisv\OneDrive\Área de Trabalho\TCC 1.0.6\Negocios\obj\Debug\Negocios.csproj.CoreCompileInputs.cache
+C:\Users\erisv\OneDrive\Área de Trabalho\TCC 1.0.6\Negocios\obj\Debug\Negocios.csproj.CopyComplete
+C:\Users\erisv\OneDrive\Área de Trabalho\TCC 1.0.6\Negocios\obj\Debug\Negocios.dll
+C:\Users\erisv\OneDrive\Área de Trabalho\TCC 1.0.6\Negocios\obj\Debug\Negocios.pdb
+C:\Users\Aluno\Desktop\Ultima vez que mexi\TCC 1.0.6\Negocios\bin\Debug\Negocios.dll
+C:\Users\Aluno\Desktop\Ultima vez que mexi\TCC 1.0.6\Negocios\bin\Debug\Negocios.pdb
+C:\Users\Aluno\Desktop\Ultima vez que mexi\TCC 1.0.6\Negocios\bin\Debug\ConectaBancoDados.dll
+C:\Users\Aluno\Desktop\Ultima vez que mexi\TCC 1.0.6\Negocios\bin\Debug\TransferenciasDeObjetos.dll
+C:\Users\Aluno\Desktop\Ultima vez que mexi\TCC 1.0.6\Negocios\bin\Debug\ConectaBancoDados.pdb
+C:\Users\Aluno\Desktop\Ultima vez que mexi\TCC 1.0.6\Negocios\bin\Debug\ConectaBancoDados.dll.config
+C:\Users\Aluno\Desktop\Ultima vez que mexi\TCC 1.0.6\Negocios\bin\Debug\TransferenciasDeObjetos.pdb
+C:\Users\Aluno\Desktop\Ultima vez que mexi\TCC 1.0.6\Negocios\obj\Debug\Negocios.csprojAssemblyReference.cache
+C:\Users\Aluno\Desktop\Ultima vez que mexi\TCC 1.0.6\Negocios\obj\Debug\Negocios.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Desktop\Ultima vez que mexi\TCC 1.0.6\Negocios\obj\Debug\Negocios.csproj.CopyComplete
+C:\Users\Aluno\Desktop\Ultima vez que mexi\TCC 1.0.6\Negocios\obj\Debug\Negocios.dll
+C:\Users\Aluno\Desktop\Ultima vez que mexi\TCC 1.0.6\Negocios\obj\Debug\Negocios.pdb
+C:\Users\erisv\OneDrive\Área de Trabalho\Ultima vez que mexi\TCC 1.0.6\Negocios\bin\Debug\Negocios.dll
+C:\Users\erisv\OneDrive\Área de Trabalho\Ultima vez que mexi\TCC 1.0.6\Negocios\bin\Debug\Negocios.pdb
+C:\Users\erisv\OneDrive\Área de Trabalho\Ultima vez que mexi\TCC 1.0.6\Negocios\bin\Debug\ConectaBancoDados.dll
+C:\Users\erisv\OneDrive\Área de Trabalho\Ultima vez que mexi\TCC 1.0.6\Negocios\bin\Debug\TransferenciasDeObjetos.dll
+C:\Users\erisv\OneDrive\Área de Trabalho\Ultima vez que mexi\TCC 1.0.6\Negocios\bin\Debug\ConectaBancoDados.pdb
+C:\Users\erisv\OneDrive\Área de Trabalho\Ultima vez que mexi\TCC 1.0.6\Negocios\bin\Debug\ConectaBancoDados.dll.config
+C:\Users\erisv\OneDrive\Área de Trabalho\Ultima vez que mexi\TCC 1.0.6\Negocios\bin\Debug\TransferenciasDeObjetos.pdb
+C:\Users\erisv\OneDrive\Área de Trabalho\Ultima vez que mexi\TCC 1.0.6\Negocios\obj\Debug\Negocios.csprojAssemblyReference.cache
+C:\Users\erisv\OneDrive\Área de Trabalho\Ultima vez que mexi\TCC 1.0.6\Negocios\obj\Debug\Negocios.csproj.CoreCompileInputs.cache
+C:\Users\erisv\OneDrive\Área de Trabalho\Ultima vez que mexi\TCC 1.0.6\Negocios\obj\Debug\Negocios.csproj.CopyComplete
+C:\Users\erisv\OneDrive\Área de Trabalho\Ultima vez que mexi\TCC 1.0.6\Negocios\obj\Debug\Negocios.dll
+C:\Users\erisv\OneDrive\Área de Trabalho\Ultima vez que mexi\TCC 1.0.6\Negocios\obj\Debug\Negocios.pdb
+C:\Users\erisv\OneDrive\Área de Trabalho\Ultima vez que mexi\TCC 1.1\Negocios\obj\Debug\Negocios.csprojAssemblyReference.cache
+C:\Users\erisv\OneDrive\Área de Trabalho\Ultima vez que mexi\TCC 1.1\Negocios\obj\Debug\Negocios.csproj.CoreCompileInputs.cache
+C:\Users\erisv\OneDrive\Área de Trabalho\Ultima vez que mexi\TCC 1.1\Negocios\obj\Debug\Negocios.dll
+C:\Users\erisv\OneDrive\Área de Trabalho\Ultima vez que mexi\TCC 1.1\Negocios\obj\Debug\Negocios.pdb
+C:\Users\erisv\OneDrive\Área de Trabalho\Ultima vez que mexi\TCC 1.1\Negocios\bin\Debug\Negocios.dll
+C:\Users\erisv\OneDrive\Área de Trabalho\Ultima vez que mexi\TCC 1.1\Negocios\bin\Debug\Negocios.pdb
+C:\Users\erisv\OneDrive\Área de Trabalho\Ultima vez que mexi\TCC 1.1\Negocios\bin\Debug\ConectaBancoDados.dll
+C:\Users\erisv\OneDrive\Área de Trabalho\Ultima vez que mexi\TCC 1.1\Negocios\bin\Debug\TransferenciasDeObjetos.dll
+C:\Users\erisv\OneDrive\Área de Trabalho\Ultima vez que mexi\TCC 1.1\Negocios\bin\Debug\ConectaBancoDados.pdb
+C:\Users\erisv\OneDrive\Área de Trabalho\Ultima vez que mexi\TCC 1.1\Negocios\bin\Debug\ConectaBancoDados.dll.config
+C:\Users\erisv\OneDrive\Área de Trabalho\Ultima vez que mexi\TCC 1.1\Negocios\bin\Debug\TransferenciasDeObjetos.pdb
+C:\Users\erisv\OneDrive\Área de Trabalho\Ultima vez que mexi\TCC 1.1\Negocios\obj\Debug\Negocios.csproj.CopyComplete
+C:\Users\CaynanHyago\Desktop\Ultima vez que mexi\TCC 1.1\Negocios\bin\Debug\Negocios.dll
+C:\Users\CaynanHyago\Desktop\Ultima vez que mexi\TCC 1.1\Negocios\bin\Debug\Negocios.pdb
+C:\Users\CaynanHyago\Desktop\Ultima vez que mexi\TCC 1.1\Negocios\bin\Debug\ConectaBancoDados.dll
+C:\Users\CaynanHyago\Desktop\Ultima vez que mexi\TCC 1.1\Negocios\bin\Debug\TransferenciasDeObjetos.dll
+C:\Users\CaynanHyago\Desktop\Ultima vez que mexi\TCC 1.1\Negocios\bin\Debug\ConectaBancoDados.pdb
+C:\Users\CaynanHyago\Desktop\Ultima vez que mexi\TCC 1.1\Negocios\bin\Debug\ConectaBancoDados.dll.config
+C:\Users\CaynanHyago\Desktop\Ultima vez que mexi\TCC 1.1\Negocios\bin\Debug\TransferenciasDeObjetos.pdb
+C:\Users\CaynanHyago\Desktop\Ultima vez que mexi\TCC 1.1\Negocios\obj\Debug\Negocios.csprojAssemblyReference.cache
+C:\Users\CaynanHyago\Desktop\Ultima vez que mexi\TCC 1.1\Negocios\obj\Debug\Negocios.csproj.CoreCompileInputs.cache
+C:\Users\CaynanHyago\Desktop\Ultima vez que mexi\TCC 1.1\Negocios\obj\Debug\Negocios.csproj.CopyComplete
+C:\Users\CaynanHyago\Desktop\Ultima vez que mexi\TCC 1.1\Negocios\obj\Debug\Negocios.dll
+C:\Users\CaynanHyago\Desktop\Ultima vez que mexi\TCC 1.1\Negocios\obj\Debug\Negocios.pdb
+F:\Ultima vez que mexi\TCC 1.1\Negocios\bin\Debug\Negocios.dll
+F:\Ultima vez que mexi\TCC 1.1\Negocios\bin\Debug\Negocios.pdb
+F:\Ultima vez que mexi\TCC 1.1\Negocios\bin\Debug\ConectaBancoDados.dll
+F:\Ultima vez que mexi\TCC 1.1\Negocios\bin\Debug\TransferenciasDeObjetos.dll
+F:\Ultima vez que mexi\TCC 1.1\Negocios\bin\Debug\ConectaBancoDados.pdb
+F:\Ultima vez que mexi\TCC 1.1\Negocios\bin\Debug\ConectaBancoDados.dll.config
+F:\Ultima vez que mexi\TCC 1.1\Negocios\bin\Debug\TransferenciasDeObjetos.pdb
+F:\Ultima vez que mexi\TCC 1.1\Negocios\obj\Debug\Negocios.csprojAssemblyReference.cache
+F:\Ultima vez que mexi\TCC 1.1\Negocios\obj\Debug\Negocios.csproj.CoreCompileInputs.cache
+F:\Ultima vez que mexi\TCC 1.1\Negocios\obj\Debug\Negocios.csproj.CopyComplete
+F:\Ultima vez que mexi\TCC 1.1\Negocios\obj\Debug\Negocios.dll
+F:\Ultima vez que mexi\TCC 1.1\Negocios\obj\Debug\Negocios.pdb

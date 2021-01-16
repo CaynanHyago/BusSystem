@@ -1,0 +1,346 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{48B7A4E5-A7AC-4E34-B3BE-4133FD9980E2}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>TCC0._1</RootNamespace>
+    <AssemblyName>TCC0.1</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Messaging" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Ajuda.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ajuda.Designer.cs">
+      <DependentUpon>Ajuda.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CadastramentoCliente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CadastramentoCliente.Designer.cs">
+      <DependentUpon>CadastramentoCliente.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ConsultaCliente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ConsultaCliente.Designer.cs">
+      <DependentUpon>ConsultaCliente.cs</DependentUpon>
+    </Compile>
+    <Compile Include="EnvioInformacoes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EnvioInformacoes.Designer.cs">
+      <DependentUpon>EnvioInformacoes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="TelaPrincipal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TelaPrincipal.Designer.cs">
+      <DependentUpon>TelaPrincipal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="RelatorioDesingn.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RelatorioDesingn.Designer.cs">
+      <DependentUpon>RelatorioDesingn.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Ajuda.resx">
+      <DependentUpon>Ajuda.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CadastramentoCliente.resx">
+      <DependentUpon>CadastramentoCliente.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ConsultaCliente.resx">
+      <DependentUpon>ConsultaCliente.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EnvioInformacoes.resx">
+      <DependentUpon>EnvioInformacoes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TelaPrincipal.resx">
+      <DependentUpon>TelaPrincipal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RelatorioDesingn.resx">
+      <DependentUpon>RelatorioDesingn.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\DataSources\ConectaBancoDados.AcessaDadosSQL.datasource" />
+    <None Include="Properties\DataSources\Negocios.CadastroFiscalNegocios.datasource" />
+    <None Include="Properties\DataSources\Negocios.CadastroMotoristaNegocios.datasource" />
+    <None Include="Properties\DataSources\Negocios.RelatorioNegocio.datasource" />
+    <None Include="Properties\DataSources\TransferenciasDeObjetos.Cadastro.datasource" />
+    <None Include="Properties\DataSources\TransferenciasDeObjetos.CadastroColecao.datasource" />
+    <None Include="Properties\DataSources\TransferenciasDeObjetos.Fiscal.datasource" />
+    <None Include="Properties\DataSources\TransferenciasDeObjetos.FiscalColecao.datasource" />
+    <None Include="Properties\DataSources\TransferenciasDeObjetos.Motorista.datasource" />
+    <None Include="Properties\DataSources\TransferenciasDeObjetos.MotoristaColecao.datasource" />
+    <None Include="Properties\DataSources\TransferenciasDeObjetos.Onibus.datasource" />
+    <None Include="Properties\DataSources\TransferenciasDeObjetos.Relatorio.datasource" />
+    <None Include="Properties\DataSources\TransferenciasDeObjetos.RelatorioColecao.datasource" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ajuda.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ajuda0.1.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\TCClogo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\btnAlterarExcluir.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\btnAlterarExcluirCor.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\botaocadastro.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\botaocadastro1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\botaocadastro2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\botaocadastrotamanhopaudogordao.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ajudabtt.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\ConectaBancoDados\ConectaBancoDados.csproj">
+      <Project>{4f82c702-b667-47e8-af69-c0a489c6e2bc}</Project>
+      <Name>ConectaBancoDados</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Negocios\Negocios.csproj">
+      <Project>{6de7de7d-53bc-4b98-8031-f46f29211541}</Project>
+      <Name>Negocios</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\TransferenciasDeObjetos\TransferenciasDeObjetos.csproj">
+      <Project>{51382750-6f12-45b7-99b0-210dd713cadd}</Project>
+      <Name>TransferenciasDeObjetos</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\fundo menu.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\fundoDesk.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\FundoMenu.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\btnCadastrar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\btnCreateRelatorio.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\btnSelectFunc.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\btnRelatorios.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\btnSelectRelatorios.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\btnCadastrarEnter.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\btnCreateRelatorioEnter.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\btnSelectFuncEnter.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\btnSelectRelatoriosEnter.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\btnSair.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\btnSairEnter.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\navbarExit.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\navbar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\navbarMax.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\btnMax.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\btnMin.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\navbarMin.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\navbarMax1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\navbarMin1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\btnAjuda.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\fundoDesk1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logoappletreiro.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\fundoDesk2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\fundoRealOficial.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logoappletreiro1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\BOEdevWhite.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\btnHelp.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logoWhite.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logoWhite1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\btncreateFunc.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\btnCreateRelatorioEnter1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\btnSelectFuncEnter1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\btnSelectRelatoriosEnter1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\btnVoltar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\fundoTelas.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\BTNCADASTRARmsm.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\BTNENVIARmsm.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\BTNPESQUISAR.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\BTNALTERAR.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\BTNEXCLUIR.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\BTNEXCLUIR1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\BTNEXCLUIR2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\BTNALTERAR1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\BTNVOLTARREALMSM.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\BTNPESQUISARREALMESMO.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\BTNCADASTRARREALOFICIALmsm.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\BTNCADASTRARREALOFICIALmsmAGRESERIO.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\BTNENVIARmsmREALZASSU.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\BTNENVIARmsmREALZASSUITSSERIOUSMEN.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\FUNDOIDEIAGORDOWN.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

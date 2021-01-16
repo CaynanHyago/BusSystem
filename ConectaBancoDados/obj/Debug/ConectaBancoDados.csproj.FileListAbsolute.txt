@@ -1,0 +1,119 @@
+F:\TCC maneiro msm\TCC 0.3\ConectaBancoDados\bin\Debug\ConectaBancoDados.dll.config
+F:\TCC maneiro msm\TCC 0.3\ConectaBancoDados\bin\Debug\ConectaBancoDados.dll
+F:\TCC maneiro msm\TCC 0.3\ConectaBancoDados\bin\Debug\ConectaBancoDados.pdb
+F:\TCC maneiro msm\TCC 0.3\ConectaBancoDados\obj\Debug\ConectaBancoDados.csprojAssemblyReference.cache
+F:\TCC maneiro msm\TCC 0.3\ConectaBancoDados\obj\Debug\ConectaBancoDados.csproj.CoreCompileInputs.cache
+F:\TCC maneiro msm\TCC 0.3\ConectaBancoDados\obj\Debug\ConectaBancoDados.dll
+F:\TCC maneiro msm\TCC 0.3\ConectaBancoDados\obj\Debug\ConectaBancoDados.pdb
+F:\TCC maneiro msm\TCC 0.5\ConectaBancoDados\bin\Debug\ConectaBancoDados.dll.config
+F:\TCC maneiro msm\TCC 0.5\ConectaBancoDados\bin\Debug\ConectaBancoDados.dll
+F:\TCC maneiro msm\TCC 0.5\ConectaBancoDados\bin\Debug\ConectaBancoDados.pdb
+F:\TCC maneiro msm\TCC 0.5\ConectaBancoDados\obj\Debug\ConectaBancoDados.csprojAssemblyReference.cache
+F:\TCC maneiro msm\TCC 0.5\ConectaBancoDados\obj\Debug\ConectaBancoDados.csproj.CoreCompileInputs.cache
+F:\TCC maneiro msm\TCC 0.5\ConectaBancoDados\obj\Debug\ConectaBancoDados.dll
+F:\TCC maneiro msm\TCC 0.5\ConectaBancoDados\obj\Debug\ConectaBancoDados.pdb
+F:\Etec\TCC maneiro msm\TCC 0.5\ConectaBancoDados\bin\Debug\ConectaBancoDados.dll.config
+F:\Etec\TCC maneiro msm\TCC 0.5\ConectaBancoDados\bin\Debug\ConectaBancoDados.dll
+F:\Etec\TCC maneiro msm\TCC 0.5\ConectaBancoDados\bin\Debug\ConectaBancoDados.pdb
+F:\Etec\TCC maneiro msm\TCC 0.5\ConectaBancoDados\obj\Debug\ConectaBancoDados.csprojAssemblyReference.cache
+F:\Etec\TCC maneiro msm\TCC 0.5\ConectaBancoDados\obj\Debug\ConectaBancoDados.csproj.CoreCompileInputs.cache
+F:\Etec\TCC maneiro msm\TCC 0.5\ConectaBancoDados\obj\Debug\ConectaBancoDados.dll
+F:\Etec\TCC maneiro msm\TCC 0.5\ConectaBancoDados\obj\Debug\ConectaBancoDados.pdb
+F:\Etec\TCC maneiro msm\TCC 0.7\ConectaBancoDados\bin\Debug\ConectaBancoDados.dll.config
+F:\Etec\TCC maneiro msm\TCC 0.7\ConectaBancoDados\bin\Debug\ConectaBancoDados.dll
+F:\Etec\TCC maneiro msm\TCC 0.7\ConectaBancoDados\bin\Debug\ConectaBancoDados.pdb
+F:\Etec\TCC maneiro msm\TCC 0.7\ConectaBancoDados\obj\Debug\ConectaBancoDados.csprojAssemblyReference.cache
+F:\Etec\TCC maneiro msm\TCC 0.7\ConectaBancoDados\obj\Debug\ConectaBancoDados.csproj.CoreCompileInputs.cache
+F:\Etec\TCC maneiro msm\TCC 0.7\ConectaBancoDados\obj\Debug\ConectaBancoDados.dll
+F:\Etec\TCC maneiro msm\TCC 0.7\ConectaBancoDados\obj\Debug\ConectaBancoDados.pdb
+G:\Etec\TCC maneiro msm\TCC 0.7\ConectaBancoDados\bin\Debug\ConectaBancoDados.dll.config
+G:\Etec\TCC maneiro msm\TCC 0.7\ConectaBancoDados\bin\Debug\ConectaBancoDados.dll
+G:\Etec\TCC maneiro msm\TCC 0.7\ConectaBancoDados\bin\Debug\ConectaBancoDados.pdb
+G:\Etec\TCC maneiro msm\TCC 0.7\ConectaBancoDados\obj\Debug\ConectaBancoDados.csprojAssemblyReference.cache
+G:\Etec\TCC maneiro msm\TCC 0.7\ConectaBancoDados\obj\Debug\ConectaBancoDados.csproj.CoreCompileInputs.cache
+G:\Etec\TCC maneiro msm\TCC 0.7\ConectaBancoDados\obj\Debug\ConectaBancoDados.dll
+G:\Etec\TCC maneiro msm\TCC 0.7\ConectaBancoDados\obj\Debug\ConectaBancoDados.pdb
+C:\Users\Programador\Desktop\TCC 0.7\ConectaBancoDados\bin\Debug\ConectaBancoDados.dll.config
+C:\Users\Programador\Desktop\TCC 0.7\ConectaBancoDados\bin\Debug\ConectaBancoDados.dll
+C:\Users\Programador\Desktop\TCC 0.7\ConectaBancoDados\bin\Debug\ConectaBancoDados.pdb
+C:\Users\Programador\Desktop\TCC 0.7\ConectaBancoDados\obj\Debug\ConectaBancoDados.csprojAssemblyReference.cache
+C:\Users\Programador\Desktop\TCC 0.7\ConectaBancoDados\obj\Debug\ConectaBancoDados.csproj.CoreCompileInputs.cache
+C:\Users\Programador\Desktop\TCC 0.7\ConectaBancoDados\obj\Debug\ConectaBancoDados.dll
+C:\Users\Programador\Desktop\TCC 0.7\ConectaBancoDados\obj\Debug\ConectaBancoDados.pdb
+F:\TCC C#\bkp tcc 0.7\TCC 1.0\TCC 1.0\ConectaBancoDados\bin\Debug\ConectaBancoDados.dll.config
+F:\TCC C#\bkp tcc 0.7\TCC 1.0\TCC 1.0\ConectaBancoDados\bin\Debug\ConectaBancoDados.dll
+F:\TCC C#\bkp tcc 0.7\TCC 1.0\TCC 1.0\ConectaBancoDados\bin\Debug\ConectaBancoDados.pdb
+F:\TCC C#\bkp tcc 0.7\TCC 1.0\TCC 1.0\ConectaBancoDados\obj\Debug\ConectaBancoDados.csprojAssemblyReference.cache
+F:\TCC C#\bkp tcc 0.7\TCC 1.0\TCC 1.0\ConectaBancoDados\obj\Debug\ConectaBancoDados.csproj.CoreCompileInputs.cache
+F:\TCC C#\bkp tcc 0.7\TCC 1.0\TCC 1.0\ConectaBancoDados\obj\Debug\ConectaBancoDados.dll
+F:\TCC C#\bkp tcc 0.7\TCC 1.0\TCC 1.0\ConectaBancoDados\obj\Debug\ConectaBancoDados.pdb
+E:\TCC C#\bkp tcc 0.7\TCC 1.0\TCC 1.0\ConectaBancoDados\bin\Debug\ConectaBancoDados.dll.config
+E:\TCC C#\bkp tcc 0.7\TCC 1.0\TCC 1.0\ConectaBancoDados\bin\Debug\ConectaBancoDados.dll
+E:\TCC C#\bkp tcc 0.7\TCC 1.0\TCC 1.0\ConectaBancoDados\bin\Debug\ConectaBancoDados.pdb
+E:\TCC C#\bkp tcc 0.7\TCC 1.0\TCC 1.0\ConectaBancoDados\obj\Debug\ConectaBancoDados.csprojAssemblyReference.cache
+E:\TCC C#\bkp tcc 0.7\TCC 1.0\TCC 1.0\ConectaBancoDados\obj\Debug\ConectaBancoDados.csproj.CoreCompileInputs.cache
+E:\TCC C#\bkp tcc 0.7\TCC 1.0\TCC 1.0\ConectaBancoDados\obj\Debug\ConectaBancoDados.dll
+E:\TCC C#\bkp tcc 0.7\TCC 1.0\TCC 1.0\ConectaBancoDados\obj\Debug\ConectaBancoDados.pdb
+C:\Users\Aluno\Desktop\TCC C#\bkp tcc 0.7\TCC 1.0\TCC 1.0\ConectaBancoDados\bin\Debug\ConectaBancoDados.dll.config
+C:\Users\Aluno\Desktop\TCC C#\bkp tcc 0.7\TCC 1.0\TCC 1.0\ConectaBancoDados\bin\Debug\ConectaBancoDados.dll
+C:\Users\Aluno\Desktop\TCC C#\bkp tcc 0.7\TCC 1.0\TCC 1.0\ConectaBancoDados\bin\Debug\ConectaBancoDados.pdb
+C:\Users\Aluno\Desktop\TCC C#\bkp tcc 0.7\TCC 1.0\TCC 1.0\ConectaBancoDados\obj\Debug\ConectaBancoDados.csprojAssemblyReference.cache
+C:\Users\Aluno\Desktop\TCC C#\bkp tcc 0.7\TCC 1.0\TCC 1.0\ConectaBancoDados\obj\Debug\ConectaBancoDados.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Desktop\TCC C#\bkp tcc 0.7\TCC 1.0\TCC 1.0\ConectaBancoDados\obj\Debug\ConectaBancoDados.dll
+C:\Users\Aluno\Desktop\TCC C#\bkp tcc 0.7\TCC 1.0\TCC 1.0\ConectaBancoDados\obj\Debug\ConectaBancoDados.pdb
+F:\faz saporra ai gomes\TCC C#\bkp tcc 0.7\TCC 1.0\TCC 1.0\ConectaBancoDados\bin\Debug\ConectaBancoDados.dll.config
+F:\faz saporra ai gomes\TCC C#\bkp tcc 0.7\TCC 1.0\TCC 1.0\ConectaBancoDados\bin\Debug\ConectaBancoDados.dll
+F:\faz saporra ai gomes\TCC C#\bkp tcc 0.7\TCC 1.0\TCC 1.0\ConectaBancoDados\bin\Debug\ConectaBancoDados.pdb
+F:\faz saporra ai gomes\TCC C#\bkp tcc 0.7\TCC 1.0\TCC 1.0\ConectaBancoDados\obj\Debug\ConectaBancoDados.csprojAssemblyReference.cache
+F:\faz saporra ai gomes\TCC C#\bkp tcc 0.7\TCC 1.0\TCC 1.0\ConectaBancoDados\obj\Debug\ConectaBancoDados.csproj.CoreCompileInputs.cache
+F:\faz saporra ai gomes\TCC C#\bkp tcc 0.7\TCC 1.0\TCC 1.0\ConectaBancoDados\obj\Debug\ConectaBancoDados.dll
+F:\faz saporra ai gomes\TCC C#\bkp tcc 0.7\TCC 1.0\TCC 1.0\ConectaBancoDados\obj\Debug\ConectaBancoDados.pdb
+F:\TCC 1.0.1\TCC C#\bkp tcc 0.7\TCC 1.0\TCC 1.0\ConectaBancoDados\bin\Debug\ConectaBancoDados.dll.config
+F:\TCC 1.0.1\TCC C#\bkp tcc 0.7\TCC 1.0\TCC 1.0\ConectaBancoDados\bin\Debug\ConectaBancoDados.dll
+F:\TCC 1.0.1\TCC C#\bkp tcc 0.7\TCC 1.0\TCC 1.0\ConectaBancoDados\bin\Debug\ConectaBancoDados.pdb
+F:\TCC 1.0.1\TCC C#\bkp tcc 0.7\TCC 1.0\TCC 1.0\ConectaBancoDados\obj\Debug\ConectaBancoDados.csprojAssemblyReference.cache
+F:\TCC 1.0.1\TCC C#\bkp tcc 0.7\TCC 1.0\TCC 1.0\ConectaBancoDados\obj\Debug\ConectaBancoDados.csproj.CoreCompileInputs.cache
+F:\TCC 1.0.1\TCC C#\bkp tcc 0.7\TCC 1.0\TCC 1.0\ConectaBancoDados\obj\Debug\ConectaBancoDados.dll
+F:\TCC 1.0.1\TCC C#\bkp tcc 0.7\TCC 1.0\TCC 1.0\ConectaBancoDados\obj\Debug\ConectaBancoDados.pdb
+E:\Versão TCC's\TCC 1.0.2\TCC C#\bkp tcc 0.7\TCC 1.0\TCC 1.0\ConectaBancoDados\bin\Debug\ConectaBancoDados.dll.config
+E:\Versão TCC's\TCC 1.0.2\TCC C#\bkp tcc 0.7\TCC 1.0\TCC 1.0\ConectaBancoDados\bin\Debug\ConectaBancoDados.dll
+E:\Versão TCC's\TCC 1.0.2\TCC C#\bkp tcc 0.7\TCC 1.0\TCC 1.0\ConectaBancoDados\bin\Debug\ConectaBancoDados.pdb
+E:\Versão TCC's\TCC 1.0.2\TCC C#\bkp tcc 0.7\TCC 1.0\TCC 1.0\ConectaBancoDados\obj\Debug\ConectaBancoDados.csprojAssemblyReference.cache
+E:\Versão TCC's\TCC 1.0.2\TCC C#\bkp tcc 0.7\TCC 1.0\TCC 1.0\ConectaBancoDados\obj\Debug\ConectaBancoDados.csproj.CoreCompileInputs.cache
+E:\Versão TCC's\TCC 1.0.2\TCC C#\bkp tcc 0.7\TCC 1.0\TCC 1.0\ConectaBancoDados\obj\Debug\ConectaBancoDados.dll
+E:\Versão TCC's\TCC 1.0.2\TCC C#\bkp tcc 0.7\TCC 1.0\TCC 1.0\ConectaBancoDados\obj\Debug\ConectaBancoDados.pdb
+D:\Versão TCC's\TCC 1.0.2\TCC C#\bkp tcc 0.7\TCC 1.0\TCC 1.0\ConectaBancoDados\bin\Debug\ConectaBancoDados.dll.config
+D:\Versão TCC's\TCC 1.0.2\TCC C#\bkp tcc 0.7\TCC 1.0\TCC 1.0\ConectaBancoDados\bin\Debug\ConectaBancoDados.dll
+D:\Versão TCC's\TCC 1.0.2\TCC C#\bkp tcc 0.7\TCC 1.0\TCC 1.0\ConectaBancoDados\bin\Debug\ConectaBancoDados.pdb
+D:\Versão TCC's\TCC 1.0.2\TCC C#\bkp tcc 0.7\TCC 1.0\TCC 1.0\ConectaBancoDados\obj\Debug\ConectaBancoDados.csprojAssemblyReference.cache
+D:\Versão TCC's\TCC 1.0.2\TCC C#\bkp tcc 0.7\TCC 1.0\TCC 1.0\ConectaBancoDados\obj\Debug\ConectaBancoDados.csproj.CoreCompileInputs.cache
+D:\Versão TCC's\TCC 1.0.2\TCC C#\bkp tcc 0.7\TCC 1.0\TCC 1.0\ConectaBancoDados\obj\Debug\ConectaBancoDados.dll
+D:\Versão TCC's\TCC 1.0.2\TCC C#\bkp tcc 0.7\TCC 1.0\TCC 1.0\ConectaBancoDados\obj\Debug\ConectaBancoDados.pdb
+F:\Versão TCC's\TCC 1.0.2\TCC C#\bkp tcc 0.7\TCC 1.0\TCC 1.0\ConectaBancoDados\bin\Debug\ConectaBancoDados.dll.config
+F:\Versão TCC's\TCC 1.0.2\TCC C#\bkp tcc 0.7\TCC 1.0\TCC 1.0\ConectaBancoDados\bin\Debug\ConectaBancoDados.dll
+F:\Versão TCC's\TCC 1.0.2\TCC C#\bkp tcc 0.7\TCC 1.0\TCC 1.0\ConectaBancoDados\bin\Debug\ConectaBancoDados.pdb
+F:\Versão TCC's\TCC 1.0.2\TCC C#\bkp tcc 0.7\TCC 1.0\TCC 1.0\ConectaBancoDados\obj\Debug\ConectaBancoDados.csprojAssemblyReference.cache
+F:\Versão TCC's\TCC 1.0.2\TCC C#\bkp tcc 0.7\TCC 1.0\TCC 1.0\ConectaBancoDados\obj\Debug\ConectaBancoDados.csproj.CoreCompileInputs.cache
+F:\Versão TCC's\TCC 1.0.2\TCC C#\bkp tcc 0.7\TCC 1.0\TCC 1.0\ConectaBancoDados\obj\Debug\ConectaBancoDados.dll
+F:\Versão TCC's\TCC 1.0.2\TCC C#\bkp tcc 0.7\TCC 1.0\TCC 1.0\ConectaBancoDados\obj\Debug\ConectaBancoDados.pdb
+C:\Users\erisv\OneDrive\Área de Trabalho\TCC 1.0\ConectaBancoDados\bin\Debug\ConectaBancoDados.dll.config
+C:\Users\erisv\OneDrive\Área de Trabalho\TCC 1.0\ConectaBancoDados\bin\Debug\ConectaBancoDados.dll
+C:\Users\erisv\OneDrive\Área de Trabalho\TCC 1.0\ConectaBancoDados\bin\Debug\ConectaBancoDados.pdb
+C:\Users\erisv\OneDrive\Área de Trabalho\TCC 1.0\ConectaBancoDados\obj\Debug\ConectaBancoDados.csprojAssemblyReference.cache
+C:\Users\erisv\OneDrive\Área de Trabalho\TCC 1.0\ConectaBancoDados\obj\Debug\ConectaBancoDados.csproj.CoreCompileInputs.cache
+C:\Users\erisv\OneDrive\Área de Trabalho\TCC 1.0\ConectaBancoDados\obj\Debug\ConectaBancoDados.dll
+C:\Users\erisv\OneDrive\Área de Trabalho\TCC 1.0\ConectaBancoDados\obj\Debug\ConectaBancoDados.pdb
+C:\Users\CaynanHyago\Desktop\Ultima vez que mexi\TCC 1.1\ConectaBancoDados\bin\Debug\ConectaBancoDados.dll.config
+C:\Users\CaynanHyago\Desktop\Ultima vez que mexi\TCC 1.1\ConectaBancoDados\bin\Debug\ConectaBancoDados.dll
+C:\Users\CaynanHyago\Desktop\Ultima vez que mexi\TCC 1.1\ConectaBancoDados\bin\Debug\ConectaBancoDados.pdb
+C:\Users\CaynanHyago\Desktop\Ultima vez que mexi\TCC 1.1\ConectaBancoDados\obj\Debug\ConectaBancoDados.csprojAssemblyReference.cache
+C:\Users\CaynanHyago\Desktop\Ultima vez que mexi\TCC 1.1\ConectaBancoDados\obj\Debug\ConectaBancoDados.csproj.CoreCompileInputs.cache
+C:\Users\CaynanHyago\Desktop\Ultima vez que mexi\TCC 1.1\ConectaBancoDados\obj\Debug\ConectaBancoDados.dll
+C:\Users\CaynanHyago\Desktop\Ultima vez que mexi\TCC 1.1\ConectaBancoDados\obj\Debug\ConectaBancoDados.pdb
+F:\Ultima vez que mexi\TCC 1.1\ConectaBancoDados\bin\Debug\ConectaBancoDados.dll.config
+F:\Ultima vez que mexi\TCC 1.1\ConectaBancoDados\bin\Debug\ConectaBancoDados.dll
+F:\Ultima vez que mexi\TCC 1.1\ConectaBancoDados\bin\Debug\ConectaBancoDados.pdb
+F:\Ultima vez que mexi\TCC 1.1\ConectaBancoDados\obj\Debug\ConectaBancoDados.csprojAssemblyReference.cache
+F:\Ultima vez que mexi\TCC 1.1\ConectaBancoDados\obj\Debug\ConectaBancoDados.csproj.CoreCompileInputs.cache
+F:\Ultima vez que mexi\TCC 1.1\ConectaBancoDados\obj\Debug\ConectaBancoDados.dll
+F:\Ultima vez que mexi\TCC 1.1\ConectaBancoDados\obj\Debug\ConectaBancoDados.pdb

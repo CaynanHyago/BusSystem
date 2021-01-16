@@ -1,0 +1,114 @@
+F:\TCC maneiro msm\TCC 0.5\TransferenciasDeObjetos\bin\Debug\TransferenciasDeObjetos.dll
+F:\TCC maneiro msm\TCC 0.5\TransferenciasDeObjetos\bin\Debug\TransferenciasDeObjetos.pdb
+F:\TCC maneiro msm\TCC 0.5\TransferenciasDeObjetos\obj\Debug\TransferenciasDeObjetos.csprojAssemblyReference.cache
+F:\TCC maneiro msm\TCC 0.5\TransferenciasDeObjetos\obj\Debug\TransferenciasDeObjetos.csproj.CoreCompileInputs.cache
+F:\TCC maneiro msm\TCC 0.5\TransferenciasDeObjetos\obj\Debug\TransferenciasDeObjetos.dll
+F:\TCC maneiro msm\TCC 0.5\TransferenciasDeObjetos\obj\Debug\TransferenciasDeObjetos.pdb
+F:\Etec\TCC maneiro msm\TCC 0.5\TransferenciasDeObjetos\bin\Debug\TransferenciasDeObjetos.dll
+F:\Etec\TCC maneiro msm\TCC 0.5\TransferenciasDeObjetos\bin\Debug\TransferenciasDeObjetos.pdb
+F:\Etec\TCC maneiro msm\TCC 0.5\TransferenciasDeObjetos\obj\Debug\TransferenciasDeObjetos.csprojAssemblyReference.cache
+F:\Etec\TCC maneiro msm\TCC 0.5\TransferenciasDeObjetos\obj\Debug\TransferenciasDeObjetos.csproj.CoreCompileInputs.cache
+F:\Etec\TCC maneiro msm\TCC 0.5\TransferenciasDeObjetos\obj\Debug\TransferenciasDeObjetos.dll
+F:\Etec\TCC maneiro msm\TCC 0.5\TransferenciasDeObjetos\obj\Debug\TransferenciasDeObjetos.pdb
+F:\Etec\TCC maneiro msm\TCC 0.7\TransferenciasDeObjetos\bin\Debug\TransferenciasDeObjetos.dll
+F:\Etec\TCC maneiro msm\TCC 0.7\TransferenciasDeObjetos\bin\Debug\TransferenciasDeObjetos.pdb
+F:\Etec\TCC maneiro msm\TCC 0.7\TransferenciasDeObjetos\obj\Debug\TransferenciasDeObjetos.csprojAssemblyReference.cache
+F:\Etec\TCC maneiro msm\TCC 0.7\TransferenciasDeObjetos\obj\Debug\TransferenciasDeObjetos.csproj.CoreCompileInputs.cache
+F:\Etec\TCC maneiro msm\TCC 0.7\TransferenciasDeObjetos\obj\Debug\TransferenciasDeObjetos.dll
+F:\Etec\TCC maneiro msm\TCC 0.7\TransferenciasDeObjetos\obj\Debug\TransferenciasDeObjetos.pdb
+G:\Etec\TCC maneiro msm\TCC 0.7\TransferenciasDeObjetos\bin\Debug\TransferenciasDeObjetos.dll
+G:\Etec\TCC maneiro msm\TCC 0.7\TransferenciasDeObjetos\bin\Debug\TransferenciasDeObjetos.pdb
+G:\Etec\TCC maneiro msm\TCC 0.7\TransferenciasDeObjetos\obj\Debug\TransferenciasDeObjetos.csprojAssemblyReference.cache
+G:\Etec\TCC maneiro msm\TCC 0.7\TransferenciasDeObjetos\obj\Debug\TransferenciasDeObjetos.csproj.CoreCompileInputs.cache
+G:\Etec\TCC maneiro msm\TCC 0.7\TransferenciasDeObjetos\obj\Debug\TransferenciasDeObjetos.dll
+G:\Etec\TCC maneiro msm\TCC 0.7\TransferenciasDeObjetos\obj\Debug\TransferenciasDeObjetos.pdb
+C:\Users\Programador\Desktop\TCC 0.7\TransferenciasDeObjetos\bin\Debug\TransferenciasDeObjetos.dll
+C:\Users\Programador\Desktop\TCC 0.7\TransferenciasDeObjetos\bin\Debug\TransferenciasDeObjetos.pdb
+C:\Users\Programador\Desktop\TCC 0.7\TransferenciasDeObjetos\obj\Debug\TransferenciasDeObjetos.csprojAssemblyReference.cache
+C:\Users\Programador\Desktop\TCC 0.7\TransferenciasDeObjetos\obj\Debug\TransferenciasDeObjetos.csproj.CoreCompileInputs.cache
+C:\Users\Programador\Desktop\TCC 0.7\TransferenciasDeObjetos\obj\Debug\TransferenciasDeObjetos.dll
+C:\Users\Programador\Desktop\TCC 0.7\TransferenciasDeObjetos\obj\Debug\TransferenciasDeObjetos.pdb
+F:\TCC C#\bkp tcc 0.7\TCC 1.0\TCC 1.0\TransferenciasDeObjetos\bin\Debug\TransferenciasDeObjetos.dll
+F:\TCC C#\bkp tcc 0.7\TCC 1.0\TCC 1.0\TransferenciasDeObjetos\bin\Debug\TransferenciasDeObjetos.pdb
+F:\TCC C#\bkp tcc 0.7\TCC 1.0\TCC 1.0\TransferenciasDeObjetos\obj\Debug\TransferenciasDeObjetos.csprojAssemblyReference.cache
+F:\TCC C#\bkp tcc 0.7\TCC 1.0\TCC 1.0\TransferenciasDeObjetos\obj\Debug\TransferenciasDeObjetos.csproj.CoreCompileInputs.cache
+F:\TCC C#\bkp tcc 0.7\TCC 1.0\TCC 1.0\TransferenciasDeObjetos\obj\Debug\TransferenciasDeObjetos.dll
+F:\TCC C#\bkp tcc 0.7\TCC 1.0\TCC 1.0\TransferenciasDeObjetos\obj\Debug\TransferenciasDeObjetos.pdb
+E:\TCC C#\bkp tcc 0.7\TCC 1.0\TCC 1.0\TransferenciasDeObjetos\bin\Debug\TransferenciasDeObjetos.dll
+E:\TCC C#\bkp tcc 0.7\TCC 1.0\TCC 1.0\TransferenciasDeObjetos\bin\Debug\TransferenciasDeObjetos.pdb
+E:\TCC C#\bkp tcc 0.7\TCC 1.0\TCC 1.0\TransferenciasDeObjetos\obj\Debug\TransferenciasDeObjetos.csprojAssemblyReference.cache
+E:\TCC C#\bkp tcc 0.7\TCC 1.0\TCC 1.0\TransferenciasDeObjetos\obj\Debug\TransferenciasDeObjetos.csproj.CoreCompileInputs.cache
+E:\TCC C#\bkp tcc 0.7\TCC 1.0\TCC 1.0\TransferenciasDeObjetos\obj\Debug\TransferenciasDeObjetos.dll
+E:\TCC C#\bkp tcc 0.7\TCC 1.0\TCC 1.0\TransferenciasDeObjetos\obj\Debug\TransferenciasDeObjetos.pdb
+C:\Users\Aluno\Desktop\TCC C#\bkp tcc 0.7\TCC 1.0\TCC 1.0\TransferenciasDeObjetos\bin\Debug\TransferenciasDeObjetos.dll
+C:\Users\Aluno\Desktop\TCC C#\bkp tcc 0.7\TCC 1.0\TCC 1.0\TransferenciasDeObjetos\bin\Debug\TransferenciasDeObjetos.pdb
+C:\Users\Aluno\Desktop\TCC C#\bkp tcc 0.7\TCC 1.0\TCC 1.0\TransferenciasDeObjetos\obj\Debug\TransferenciasDeObjetos.csprojAssemblyReference.cache
+C:\Users\Aluno\Desktop\TCC C#\bkp tcc 0.7\TCC 1.0\TCC 1.0\TransferenciasDeObjetos\obj\Debug\TransferenciasDeObjetos.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Desktop\TCC C#\bkp tcc 0.7\TCC 1.0\TCC 1.0\TransferenciasDeObjetos\obj\Debug\TransferenciasDeObjetos.dll
+C:\Users\Aluno\Desktop\TCC C#\bkp tcc 0.7\TCC 1.0\TCC 1.0\TransferenciasDeObjetos\obj\Debug\TransferenciasDeObjetos.pdb
+F:\faz saporra ai gomes\TCC C#\bkp tcc 0.7\TCC 1.0\TCC 1.0\TransferenciasDeObjetos\bin\Debug\TransferenciasDeObjetos.dll
+F:\faz saporra ai gomes\TCC C#\bkp tcc 0.7\TCC 1.0\TCC 1.0\TransferenciasDeObjetos\bin\Debug\TransferenciasDeObjetos.pdb
+F:\faz saporra ai gomes\TCC C#\bkp tcc 0.7\TCC 1.0\TCC 1.0\TransferenciasDeObjetos\obj\Debug\TransferenciasDeObjetos.csprojAssemblyReference.cache
+F:\faz saporra ai gomes\TCC C#\bkp tcc 0.7\TCC 1.0\TCC 1.0\TransferenciasDeObjetos\obj\Debug\TransferenciasDeObjetos.csproj.CoreCompileInputs.cache
+F:\faz saporra ai gomes\TCC C#\bkp tcc 0.7\TCC 1.0\TCC 1.0\TransferenciasDeObjetos\obj\Debug\TransferenciasDeObjetos.dll
+F:\faz saporra ai gomes\TCC C#\bkp tcc 0.7\TCC 1.0\TCC 1.0\TransferenciasDeObjetos\obj\Debug\TransferenciasDeObjetos.pdb
+F:\TCC 1.0.1\TCC C#\bkp tcc 0.7\TCC 1.0\TCC 1.0\TransferenciasDeObjetos\bin\Debug\TransferenciasDeObjetos.dll
+F:\TCC 1.0.1\TCC C#\bkp tcc 0.7\TCC 1.0\TCC 1.0\TransferenciasDeObjetos\bin\Debug\TransferenciasDeObjetos.pdb
+F:\TCC 1.0.1\TCC C#\bkp tcc 0.7\TCC 1.0\TCC 1.0\TransferenciasDeObjetos\obj\Debug\TransferenciasDeObjetos.csprojAssemblyReference.cache
+F:\TCC 1.0.1\TCC C#\bkp tcc 0.7\TCC 1.0\TCC 1.0\TransferenciasDeObjetos\obj\Debug\TransferenciasDeObjetos.csproj.CoreCompileInputs.cache
+F:\TCC 1.0.1\TCC C#\bkp tcc 0.7\TCC 1.0\TCC 1.0\TransferenciasDeObjetos\obj\Debug\TransferenciasDeObjetos.dll
+F:\TCC 1.0.1\TCC C#\bkp tcc 0.7\TCC 1.0\TCC 1.0\TransferenciasDeObjetos\obj\Debug\TransferenciasDeObjetos.pdb
+E:\Versão TCC's\TCC 1.0.2\TCC C#\bkp tcc 0.7\TCC 1.0\TCC 1.0\TransferenciasDeObjetos\bin\Debug\TransferenciasDeObjetos.dll
+E:\Versão TCC's\TCC 1.0.2\TCC C#\bkp tcc 0.7\TCC 1.0\TCC 1.0\TransferenciasDeObjetos\bin\Debug\TransferenciasDeObjetos.pdb
+E:\Versão TCC's\TCC 1.0.2\TCC C#\bkp tcc 0.7\TCC 1.0\TCC 1.0\TransferenciasDeObjetos\obj\Debug\TransferenciasDeObjetos.csprojAssemblyReference.cache
+E:\Versão TCC's\TCC 1.0.2\TCC C#\bkp tcc 0.7\TCC 1.0\TCC 1.0\TransferenciasDeObjetos\obj\Debug\TransferenciasDeObjetos.csproj.CoreCompileInputs.cache
+E:\Versão TCC's\TCC 1.0.2\TCC C#\bkp tcc 0.7\TCC 1.0\TCC 1.0\TransferenciasDeObjetos\obj\Debug\TransferenciasDeObjetos.dll
+E:\Versão TCC's\TCC 1.0.2\TCC C#\bkp tcc 0.7\TCC 1.0\TCC 1.0\TransferenciasDeObjetos\obj\Debug\TransferenciasDeObjetos.pdb
+D:\Versão TCC's\TCC 1.0.2\TCC C#\bkp tcc 0.7\TCC 1.0\TCC 1.0\TransferenciasDeObjetos\bin\Debug\TransferenciasDeObjetos.dll
+D:\Versão TCC's\TCC 1.0.2\TCC C#\bkp tcc 0.7\TCC 1.0\TCC 1.0\TransferenciasDeObjetos\bin\Debug\TransferenciasDeObjetos.pdb
+D:\Versão TCC's\TCC 1.0.2\TCC C#\bkp tcc 0.7\TCC 1.0\TCC 1.0\TransferenciasDeObjetos\obj\Debug\TransferenciasDeObjetos.csprojAssemblyReference.cache
+D:\Versão TCC's\TCC 1.0.2\TCC C#\bkp tcc 0.7\TCC 1.0\TCC 1.0\TransferenciasDeObjetos\obj\Debug\TransferenciasDeObjetos.csproj.CoreCompileInputs.cache
+D:\Versão TCC's\TCC 1.0.2\TCC C#\bkp tcc 0.7\TCC 1.0\TCC 1.0\TransferenciasDeObjetos\obj\Debug\TransferenciasDeObjetos.dll
+D:\Versão TCC's\TCC 1.0.2\TCC C#\bkp tcc 0.7\TCC 1.0\TCC 1.0\TransferenciasDeObjetos\obj\Debug\TransferenciasDeObjetos.pdb
+C:\Users\erisv\OneDrive\Área de Trabalho\TCC 1.0\TransferenciasDeObjetos\bin\Debug\TransferenciasDeObjetos.dll
+C:\Users\erisv\OneDrive\Área de Trabalho\TCC 1.0\TransferenciasDeObjetos\bin\Debug\TransferenciasDeObjetos.pdb
+C:\Users\erisv\OneDrive\Área de Trabalho\TCC 1.0\TransferenciasDeObjetos\obj\Debug\TransferenciasDeObjetos.csprojAssemblyReference.cache
+C:\Users\erisv\OneDrive\Área de Trabalho\TCC 1.0\TransferenciasDeObjetos\obj\Debug\TransferenciasDeObjetos.csproj.CoreCompileInputs.cache
+C:\Users\erisv\OneDrive\Área de Trabalho\TCC 1.0\TransferenciasDeObjetos\obj\Debug\TransferenciasDeObjetos.dll
+C:\Users\erisv\OneDrive\Área de Trabalho\TCC 1.0\TransferenciasDeObjetos\obj\Debug\TransferenciasDeObjetos.pdb
+C:\Users\erisv\OneDrive\Área de Trabalho\TCC 1.0.4\TransferenciasDeObjetos\bin\Debug\TransferenciasDeObjetos.dll
+C:\Users\erisv\OneDrive\Área de Trabalho\TCC 1.0.4\TransferenciasDeObjetos\bin\Debug\TransferenciasDeObjetos.pdb
+C:\Users\erisv\OneDrive\Área de Trabalho\TCC 1.0.4\TransferenciasDeObjetos\obj\Debug\TransferenciasDeObjetos.csprojAssemblyReference.cache
+C:\Users\erisv\OneDrive\Área de Trabalho\TCC 1.0.4\TransferenciasDeObjetos\obj\Debug\TransferenciasDeObjetos.csproj.CoreCompileInputs.cache
+C:\Users\erisv\OneDrive\Área de Trabalho\TCC 1.0.4\TransferenciasDeObjetos\obj\Debug\TransferenciasDeObjetos.dll
+C:\Users\erisv\OneDrive\Área de Trabalho\TCC 1.0.4\TransferenciasDeObjetos\obj\Debug\TransferenciasDeObjetos.pdb
+C:\Users\erisv\OneDrive\Área de Trabalho\TCC 1.0.5\TransferenciasDeObjetos\bin\Debug\TransferenciasDeObjetos.dll
+C:\Users\erisv\OneDrive\Área de Trabalho\TCC 1.0.5\TransferenciasDeObjetos\bin\Debug\TransferenciasDeObjetos.pdb
+C:\Users\erisv\OneDrive\Área de Trabalho\TCC 1.0.5\TransferenciasDeObjetos\obj\Debug\TransferenciasDeObjetos.csprojAssemblyReference.cache
+C:\Users\erisv\OneDrive\Área de Trabalho\TCC 1.0.5\TransferenciasDeObjetos\obj\Debug\TransferenciasDeObjetos.csproj.CoreCompileInputs.cache
+C:\Users\erisv\OneDrive\Área de Trabalho\TCC 1.0.5\TransferenciasDeObjetos\obj\Debug\TransferenciasDeObjetos.dll
+C:\Users\erisv\OneDrive\Área de Trabalho\TCC 1.0.5\TransferenciasDeObjetos\obj\Debug\TransferenciasDeObjetos.pdb
+C:\Users\Aluno\Desktop\Ultima vez que mexi\TCC 1.0.6\TransferenciasDeObjetos\bin\Debug\TransferenciasDeObjetos.dll
+C:\Users\Aluno\Desktop\Ultima vez que mexi\TCC 1.0.6\TransferenciasDeObjetos\bin\Debug\TransferenciasDeObjetos.pdb
+C:\Users\Aluno\Desktop\Ultima vez que mexi\TCC 1.0.6\TransferenciasDeObjetos\obj\Debug\TransferenciasDeObjetos.csprojAssemblyReference.cache
+C:\Users\Aluno\Desktop\Ultima vez que mexi\TCC 1.0.6\TransferenciasDeObjetos\obj\Debug\TransferenciasDeObjetos.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Desktop\Ultima vez que mexi\TCC 1.0.6\TransferenciasDeObjetos\obj\Debug\TransferenciasDeObjetos.dll
+C:\Users\Aluno\Desktop\Ultima vez que mexi\TCC 1.0.6\TransferenciasDeObjetos\obj\Debug\TransferenciasDeObjetos.pdb
+C:\Users\erisv\OneDrive\Área de Trabalho\Ultima vez que mexi\TCC 1.1\TransferenciasDeObjetos\bin\Debug\TransferenciasDeObjetos.dll
+C:\Users\erisv\OneDrive\Área de Trabalho\Ultima vez que mexi\TCC 1.1\TransferenciasDeObjetos\bin\Debug\TransferenciasDeObjetos.pdb
+C:\Users\erisv\OneDrive\Área de Trabalho\Ultima vez que mexi\TCC 1.1\TransferenciasDeObjetos\obj\Debug\TransferenciasDeObjetos.csprojAssemblyReference.cache
+C:\Users\erisv\OneDrive\Área de Trabalho\Ultima vez que mexi\TCC 1.1\TransferenciasDeObjetos\obj\Debug\TransferenciasDeObjetos.csproj.CoreCompileInputs.cache
+C:\Users\erisv\OneDrive\Área de Trabalho\Ultima vez que mexi\TCC 1.1\TransferenciasDeObjetos\obj\Debug\TransferenciasDeObjetos.dll
+C:\Users\erisv\OneDrive\Área de Trabalho\Ultima vez que mexi\TCC 1.1\TransferenciasDeObjetos\obj\Debug\TransferenciasDeObjetos.pdb
+C:\Users\CaynanHyago\Desktop\Ultima vez que mexi\TCC 1.1\TransferenciasDeObjetos\bin\Debug\TransferenciasDeObjetos.dll
+C:\Users\CaynanHyago\Desktop\Ultima vez que mexi\TCC 1.1\TransferenciasDeObjetos\bin\Debug\TransferenciasDeObjetos.pdb
+C:\Users\CaynanHyago\Desktop\Ultima vez que mexi\TCC 1.1\TransferenciasDeObjetos\obj\Debug\TransferenciasDeObjetos.csprojAssemblyReference.cache
+C:\Users\CaynanHyago\Desktop\Ultima vez que mexi\TCC 1.1\TransferenciasDeObjetos\obj\Debug\TransferenciasDeObjetos.csproj.CoreCompileInputs.cache
+C:\Users\CaynanHyago\Desktop\Ultima vez que mexi\TCC 1.1\TransferenciasDeObjetos\obj\Debug\TransferenciasDeObjetos.dll
+C:\Users\CaynanHyago\Desktop\Ultima vez que mexi\TCC 1.1\TransferenciasDeObjetos\obj\Debug\TransferenciasDeObjetos.pdb
+F:\Ultima vez que mexi\TCC 1.1\TransferenciasDeObjetos\bin\Debug\TransferenciasDeObjetos.dll
+F:\Ultima vez que mexi\TCC 1.1\TransferenciasDeObjetos\bin\Debug\TransferenciasDeObjetos.pdb
+F:\Ultima vez que mexi\TCC 1.1\TransferenciasDeObjetos\obj\Debug\TransferenciasDeObjetos.csprojAssemblyReference.cache
+F:\Ultima vez que mexi\TCC 1.1\TransferenciasDeObjetos\obj\Debug\TransferenciasDeObjetos.csproj.CoreCompileInputs.cache
+F:\Ultima vez que mexi\TCC 1.1\TransferenciasDeObjetos\obj\Debug\TransferenciasDeObjetos.dll
+F:\Ultima vez que mexi\TCC 1.1\TransferenciasDeObjetos\obj\Debug\TransferenciasDeObjetos.pdb

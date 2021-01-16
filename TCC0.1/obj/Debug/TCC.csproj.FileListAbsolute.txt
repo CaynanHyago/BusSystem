@@ -1,0 +1,552 @@
+F:\Etec\TCC maneiro msm\TCC 0.7\TCC0.1\bin\Debug\TCC0.1.exe.config
+F:\Etec\TCC maneiro msm\TCC 0.7\TCC0.1\bin\Debug\TCC0.1.exe
+F:\Etec\TCC maneiro msm\TCC 0.7\TCC0.1\bin\Debug\TCC0.1.pdb
+F:\Etec\TCC maneiro msm\TCC 0.7\TCC0.1\bin\Debug\Negocios.dll
+F:\Etec\TCC maneiro msm\TCC 0.7\TCC0.1\bin\Debug\TransferenciasDeObjetos.dll
+F:\Etec\TCC maneiro msm\TCC 0.7\TCC0.1\bin\Debug\ConectaBancoDados.dll
+F:\Etec\TCC maneiro msm\TCC 0.7\TCC0.1\bin\Debug\Negocios.pdb
+F:\Etec\TCC maneiro msm\TCC 0.7\TCC0.1\bin\Debug\TransferenciasDeObjetos.pdb
+F:\Etec\TCC maneiro msm\TCC 0.7\TCC0.1\bin\Debug\ConectaBancoDados.pdb
+F:\Etec\TCC maneiro msm\TCC 0.7\TCC0.1\bin\Debug\ConectaBancoDados.dll.config
+F:\Etec\TCC maneiro msm\TCC 0.7\TCC0.1\obj\Debug\TCC.csprojAssemblyReference.cache
+F:\Etec\TCC maneiro msm\TCC 0.7\TCC0.1\obj\Debug\TCC0._1.Ajuda.resources
+F:\Etec\TCC maneiro msm\TCC 0.7\TCC0.1\obj\Debug\TCC0._1.CadastramentoCliente.resources
+F:\Etec\TCC maneiro msm\TCC 0.7\TCC0.1\obj\Debug\TCC0._1.ConsultaCliente.resources
+F:\Etec\TCC maneiro msm\TCC 0.7\TCC0.1\obj\Debug\TCC0._1.EnvioInformacoes.resources
+F:\Etec\TCC maneiro msm\TCC 0.7\TCC0.1\obj\Debug\TCC0._1.Index.resources
+F:\Etec\TCC maneiro msm\TCC 0.7\TCC0.1\obj\Debug\TCC0._1.Properties.Resources.resources
+F:\Etec\TCC maneiro msm\TCC 0.7\TCC0.1\obj\Debug\TCC0._1.RelatorioDesingn.resources
+F:\Etec\TCC maneiro msm\TCC 0.7\TCC0.1\obj\Debug\TCC.csproj.GenerateResource.cache
+F:\Etec\TCC maneiro msm\TCC 0.7\TCC0.1\obj\Debug\TCC.csproj.CoreCompileInputs.cache
+F:\Etec\TCC maneiro msm\TCC 0.7\TCC0.1\obj\Debug\TCC.csproj.CopyComplete
+F:\Etec\TCC maneiro msm\TCC 0.7\TCC0.1\obj\Debug\TCC0.1.exe
+F:\Etec\TCC maneiro msm\TCC 0.7\TCC0.1\obj\Debug\TCC0.1.pdb
+G:\Etec\TCC maneiro msm\TCC 0.7\TCC0.1\bin\Debug\TCC0.1.exe.config
+G:\Etec\TCC maneiro msm\TCC 0.7\TCC0.1\bin\Debug\TCC0.1.exe
+G:\Etec\TCC maneiro msm\TCC 0.7\TCC0.1\bin\Debug\TCC0.1.pdb
+G:\Etec\TCC maneiro msm\TCC 0.7\TCC0.1\bin\Debug\Negocios.dll
+G:\Etec\TCC maneiro msm\TCC 0.7\TCC0.1\bin\Debug\TransferenciasDeObjetos.dll
+G:\Etec\TCC maneiro msm\TCC 0.7\TCC0.1\bin\Debug\ConectaBancoDados.dll
+G:\Etec\TCC maneiro msm\TCC 0.7\TCC0.1\bin\Debug\Negocios.pdb
+G:\Etec\TCC maneiro msm\TCC 0.7\TCC0.1\bin\Debug\TransferenciasDeObjetos.pdb
+G:\Etec\TCC maneiro msm\TCC 0.7\TCC0.1\bin\Debug\ConectaBancoDados.pdb
+G:\Etec\TCC maneiro msm\TCC 0.7\TCC0.1\bin\Debug\ConectaBancoDados.dll.config
+G:\Etec\TCC maneiro msm\TCC 0.7\TCC0.1\obj\Debug\TCC.csprojAssemblyReference.cache
+G:\Etec\TCC maneiro msm\TCC 0.7\TCC0.1\obj\Debug\TCC0._1.Ajuda.resources
+G:\Etec\TCC maneiro msm\TCC 0.7\TCC0.1\obj\Debug\TCC0._1.CadastramentoCliente.resources
+G:\Etec\TCC maneiro msm\TCC 0.7\TCC0.1\obj\Debug\TCC0._1.ConsultaCliente.resources
+G:\Etec\TCC maneiro msm\TCC 0.7\TCC0.1\obj\Debug\TCC0._1.EnvioInformacoes.resources
+G:\Etec\TCC maneiro msm\TCC 0.7\TCC0.1\obj\Debug\TCC0._1.Index.resources
+G:\Etec\TCC maneiro msm\TCC 0.7\TCC0.1\obj\Debug\TCC0._1.Properties.Resources.resources
+G:\Etec\TCC maneiro msm\TCC 0.7\TCC0.1\obj\Debug\TCC0._1.RelatorioDesingn.resources
+G:\Etec\TCC maneiro msm\TCC 0.7\TCC0.1\obj\Debug\TCC.csproj.GenerateResource.cache
+G:\Etec\TCC maneiro msm\TCC 0.7\TCC0.1\obj\Debug\TCC.csproj.CoreCompileInputs.cache
+G:\Etec\TCC maneiro msm\TCC 0.7\TCC0.1\obj\Debug\TCC.csproj.CopyComplete
+G:\Etec\TCC maneiro msm\TCC 0.7\TCC0.1\obj\Debug\TCC0.1.exe
+G:\Etec\TCC maneiro msm\TCC 0.7\TCC0.1\obj\Debug\TCC0.1.pdb
+F:\TCC C#\bkp tcc 0.7\TCC 0.7\TCC0.1\bin\Debug\TCC0.1.exe.config
+F:\TCC C#\bkp tcc 0.7\TCC 0.7\TCC0.1\bin\Debug\TCC0.1.exe
+F:\TCC C#\bkp tcc 0.7\TCC 0.7\TCC0.1\bin\Debug\TCC0.1.pdb
+F:\TCC C#\bkp tcc 0.7\TCC 0.7\TCC0.1\bin\Debug\Negocios.dll
+F:\TCC C#\bkp tcc 0.7\TCC 0.7\TCC0.1\bin\Debug\TransferenciasDeObjetos.dll
+F:\TCC C#\bkp tcc 0.7\TCC 0.7\TCC0.1\bin\Debug\ConectaBancoDados.dll
+F:\TCC C#\bkp tcc 0.7\TCC 0.7\TCC0.1\bin\Debug\Negocios.pdb
+F:\TCC C#\bkp tcc 0.7\TCC 0.7\TCC0.1\bin\Debug\TransferenciasDeObjetos.pdb
+F:\TCC C#\bkp tcc 0.7\TCC 0.7\TCC0.1\bin\Debug\ConectaBancoDados.pdb
+F:\TCC C#\bkp tcc 0.7\TCC 0.7\TCC0.1\bin\Debug\ConectaBancoDados.dll.config
+F:\TCC C#\bkp tcc 0.7\TCC 0.7\TCC0.1\obj\Debug\TCC.csprojAssemblyReference.cache
+F:\TCC C#\bkp tcc 0.7\TCC 0.7\TCC0.1\obj\Debug\TCC0._1.Ajuda.resources
+F:\TCC C#\bkp tcc 0.7\TCC 0.7\TCC0.1\obj\Debug\TCC0._1.CadastramentoCliente.resources
+F:\TCC C#\bkp tcc 0.7\TCC 0.7\TCC0.1\obj\Debug\TCC0._1.ConsultaCliente.resources
+F:\TCC C#\bkp tcc 0.7\TCC 0.7\TCC0.1\obj\Debug\TCC0._1.EnvioInformacoes.resources
+F:\TCC C#\bkp tcc 0.7\TCC 0.7\TCC0.1\obj\Debug\TCC0._1.Index.resources
+F:\TCC C#\bkp tcc 0.7\TCC 0.7\TCC0.1\obj\Debug\TCC0._1.Properties.Resources.resources
+F:\TCC C#\bkp tcc 0.7\TCC 0.7\TCC0.1\obj\Debug\TCC0._1.RelatorioDesingn.resources
+F:\TCC C#\bkp tcc 0.7\TCC 0.7\TCC0.1\obj\Debug\TCC.csproj.GenerateResource.cache
+F:\TCC C#\bkp tcc 0.7\TCC 0.7\TCC0.1\obj\Debug\TCC.csproj.CoreCompileInputs.cache
+F:\TCC C#\bkp tcc 0.7\TCC 0.7\TCC0.1\obj\Debug\TCC.csproj.CopyComplete
+F:\TCC C#\bkp tcc 0.7\TCC 0.7\TCC0.1\obj\Debug\TCC0.1.exe
+F:\TCC C#\bkp tcc 0.7\TCC 0.7\TCC0.1\obj\Debug\TCC0.1.pdb
+C:\Users\Programador\Desktop\TCC 0.7\TCC0.1\bin\Debug\TCC0.1.exe.config
+C:\Users\Programador\Desktop\TCC 0.7\TCC0.1\bin\Debug\TCC0.1.exe
+C:\Users\Programador\Desktop\TCC 0.7\TCC0.1\bin\Debug\TCC0.1.pdb
+C:\Users\Programador\Desktop\TCC 0.7\TCC0.1\bin\Debug\Negocios.dll
+C:\Users\Programador\Desktop\TCC 0.7\TCC0.1\bin\Debug\TransferenciasDeObjetos.dll
+C:\Users\Programador\Desktop\TCC 0.7\TCC0.1\bin\Debug\ConectaBancoDados.dll
+C:\Users\Programador\Desktop\TCC 0.7\TCC0.1\bin\Debug\Negocios.pdb
+C:\Users\Programador\Desktop\TCC 0.7\TCC0.1\bin\Debug\TransferenciasDeObjetos.pdb
+C:\Users\Programador\Desktop\TCC 0.7\TCC0.1\bin\Debug\ConectaBancoDados.pdb
+C:\Users\Programador\Desktop\TCC 0.7\TCC0.1\bin\Debug\ConectaBancoDados.dll.config
+C:\Users\Programador\Desktop\TCC 0.7\TCC0.1\obj\Debug\TCC.csprojAssemblyReference.cache
+C:\Users\Programador\Desktop\TCC 0.7\TCC0.1\obj\Debug\TCC0._1.Ajuda.resources
+C:\Users\Programador\Desktop\TCC 0.7\TCC0.1\obj\Debug\TCC0._1.CadastramentoCliente.resources
+C:\Users\Programador\Desktop\TCC 0.7\TCC0.1\obj\Debug\TCC0._1.ConsultaCliente.resources
+C:\Users\Programador\Desktop\TCC 0.7\TCC0.1\obj\Debug\TCC0._1.EnvioInformacoes.resources
+C:\Users\Programador\Desktop\TCC 0.7\TCC0.1\obj\Debug\TCC0._1.Index.resources
+C:\Users\Programador\Desktop\TCC 0.7\TCC0.1\obj\Debug\TCC0._1.Properties.Resources.resources
+C:\Users\Programador\Desktop\TCC 0.7\TCC0.1\obj\Debug\TCC0._1.RelatorioDesingn.resources
+C:\Users\Programador\Desktop\TCC 0.7\TCC0.1\obj\Debug\TCC.csproj.GenerateResource.cache
+C:\Users\Programador\Desktop\TCC 0.7\TCC0.1\obj\Debug\TCC.csproj.CoreCompileInputs.cache
+C:\Users\Programador\Desktop\TCC 0.7\TCC0.1\obj\Debug\TCC.csproj.CopyComplete
+C:\Users\Programador\Desktop\TCC 0.7\TCC0.1\obj\Debug\TCC0.1.exe
+C:\Users\Programador\Desktop\TCC 0.7\TCC0.1\obj\Debug\TCC0.1.pdb
+F:\TCC C#\bkp tcc 0.7\TCC 1.0\TCC 1.0\TCC0.1\bin\Debug\TCC0.1.exe.config
+F:\TCC C#\bkp tcc 0.7\TCC 1.0\TCC 1.0\TCC0.1\bin\Debug\TCC0.1.exe
+F:\TCC C#\bkp tcc 0.7\TCC 1.0\TCC 1.0\TCC0.1\bin\Debug\TCC0.1.pdb
+F:\TCC C#\bkp tcc 0.7\TCC 1.0\TCC 1.0\TCC0.1\bin\Debug\Negocios.dll
+F:\TCC C#\bkp tcc 0.7\TCC 1.0\TCC 1.0\TCC0.1\bin\Debug\TransferenciasDeObjetos.dll
+F:\TCC C#\bkp tcc 0.7\TCC 1.0\TCC 1.0\TCC0.1\bin\Debug\ConectaBancoDados.dll
+F:\TCC C#\bkp tcc 0.7\TCC 1.0\TCC 1.0\TCC0.1\bin\Debug\Negocios.pdb
+F:\TCC C#\bkp tcc 0.7\TCC 1.0\TCC 1.0\TCC0.1\bin\Debug\TransferenciasDeObjetos.pdb
+F:\TCC C#\bkp tcc 0.7\TCC 1.0\TCC 1.0\TCC0.1\bin\Debug\ConectaBancoDados.pdb
+F:\TCC C#\bkp tcc 0.7\TCC 1.0\TCC 1.0\TCC0.1\bin\Debug\ConectaBancoDados.dll.config
+F:\TCC C#\bkp tcc 0.7\TCC 1.0\TCC 1.0\TCC0.1\obj\Debug\TCC.csprojAssemblyReference.cache
+F:\TCC C#\bkp tcc 0.7\TCC 1.0\TCC 1.0\TCC0.1\obj\Debug\TCC0._1.Ajuda.resources
+F:\TCC C#\bkp tcc 0.7\TCC 1.0\TCC 1.0\TCC0.1\obj\Debug\TCC0._1.CadastramentoCliente.resources
+F:\TCC C#\bkp tcc 0.7\TCC 1.0\TCC 1.0\TCC0.1\obj\Debug\TCC0._1.ConsultaCliente.resources
+F:\TCC C#\bkp tcc 0.7\TCC 1.0\TCC 1.0\TCC0.1\obj\Debug\TCC0._1.EnvioInformacoes.resources
+F:\TCC C#\bkp tcc 0.7\TCC 1.0\TCC 1.0\TCC0.1\obj\Debug\TCC0._1.Properties.Resources.resources
+F:\TCC C#\bkp tcc 0.7\TCC 1.0\TCC 1.0\TCC0.1\obj\Debug\TCC0._1.RelatorioDesingn.resources
+F:\TCC C#\bkp tcc 0.7\TCC 1.0\TCC 1.0\TCC0.1\obj\Debug\TCC.csproj.GenerateResource.cache
+F:\TCC C#\bkp tcc 0.7\TCC 1.0\TCC 1.0\TCC0.1\obj\Debug\TCC.csproj.CoreCompileInputs.cache
+F:\TCC C#\bkp tcc 0.7\TCC 1.0\TCC 1.0\TCC0.1\obj\Debug\TCC.csproj.CopyComplete
+F:\TCC C#\bkp tcc 0.7\TCC 1.0\TCC 1.0\TCC0.1\obj\Debug\TCC0.1.exe
+F:\TCC C#\bkp tcc 0.7\TCC 1.0\TCC 1.0\TCC0.1\obj\Debug\TCC0.1.pdb
+F:\TCC C#\bkp tcc 0.7\TCC 1.0\TCC 1.0\TCC0.1\obj\Debug\TCC0._1.TelaPrincipal.resources
+E:\TCC C#\bkp tcc 0.7\TCC 1.0\TCC 1.0\TCC0.1\bin\Debug\TCC0.1.exe.config
+E:\TCC C#\bkp tcc 0.7\TCC 1.0\TCC 1.0\TCC0.1\bin\Debug\TCC0.1.exe
+E:\TCC C#\bkp tcc 0.7\TCC 1.0\TCC 1.0\TCC0.1\bin\Debug\TCC0.1.pdb
+E:\TCC C#\bkp tcc 0.7\TCC 1.0\TCC 1.0\TCC0.1\bin\Debug\Negocios.dll
+E:\TCC C#\bkp tcc 0.7\TCC 1.0\TCC 1.0\TCC0.1\bin\Debug\TransferenciasDeObjetos.dll
+E:\TCC C#\bkp tcc 0.7\TCC 1.0\TCC 1.0\TCC0.1\bin\Debug\ConectaBancoDados.dll
+E:\TCC C#\bkp tcc 0.7\TCC 1.0\TCC 1.0\TCC0.1\bin\Debug\Negocios.pdb
+E:\TCC C#\bkp tcc 0.7\TCC 1.0\TCC 1.0\TCC0.1\bin\Debug\TransferenciasDeObjetos.pdb
+E:\TCC C#\bkp tcc 0.7\TCC 1.0\TCC 1.0\TCC0.1\bin\Debug\ConectaBancoDados.pdb
+E:\TCC C#\bkp tcc 0.7\TCC 1.0\TCC 1.0\TCC0.1\bin\Debug\ConectaBancoDados.dll.config
+E:\TCC C#\bkp tcc 0.7\TCC 1.0\TCC 1.0\TCC0.1\obj\Debug\TCC.csprojAssemblyReference.cache
+E:\TCC C#\bkp tcc 0.7\TCC 1.0\TCC 1.0\TCC0.1\obj\Debug\TCC0._1.Ajuda.resources
+E:\TCC C#\bkp tcc 0.7\TCC 1.0\TCC 1.0\TCC0.1\obj\Debug\TCC0._1.CadastramentoCliente.resources
+E:\TCC C#\bkp tcc 0.7\TCC 1.0\TCC 1.0\TCC0.1\obj\Debug\TCC0._1.ConsultaCliente.resources
+E:\TCC C#\bkp tcc 0.7\TCC 1.0\TCC 1.0\TCC0.1\obj\Debug\TCC0._1.EnvioInformacoes.resources
+E:\TCC C#\bkp tcc 0.7\TCC 1.0\TCC 1.0\TCC0.1\obj\Debug\TCC0._1.TelaPrincipal.resources
+E:\TCC C#\bkp tcc 0.7\TCC 1.0\TCC 1.0\TCC0.1\obj\Debug\TCC0._1.Properties.Resources.resources
+E:\TCC C#\bkp tcc 0.7\TCC 1.0\TCC 1.0\TCC0.1\obj\Debug\TCC0._1.RelatorioDesingn.resources
+E:\TCC C#\bkp tcc 0.7\TCC 1.0\TCC 1.0\TCC0.1\obj\Debug\TCC.csproj.GenerateResource.cache
+E:\TCC C#\bkp tcc 0.7\TCC 1.0\TCC 1.0\TCC0.1\obj\Debug\TCC.csproj.CoreCompileInputs.cache
+E:\TCC C#\bkp tcc 0.7\TCC 1.0\TCC 1.0\TCC0.1\obj\Debug\TCC.csproj.CopyComplete
+E:\TCC C#\bkp tcc 0.7\TCC 1.0\TCC 1.0\TCC0.1\obj\Debug\TCC0.1.exe
+E:\TCC C#\bkp tcc 0.7\TCC 1.0\TCC 1.0\TCC0.1\obj\Debug\TCC0.1.pdb
+C:\Users\Aluno\Desktop\TCC C#\bkp tcc 0.7\TCC 1.0\TCC 1.0\TCC0.1\bin\Debug\TCC0.1.exe.config
+C:\Users\Aluno\Desktop\TCC C#\bkp tcc 0.7\TCC 1.0\TCC 1.0\TCC0.1\bin\Debug\TCC0.1.exe
+C:\Users\Aluno\Desktop\TCC C#\bkp tcc 0.7\TCC 1.0\TCC 1.0\TCC0.1\bin\Debug\TCC0.1.pdb
+C:\Users\Aluno\Desktop\TCC C#\bkp tcc 0.7\TCC 1.0\TCC 1.0\TCC0.1\bin\Debug\Negocios.dll
+C:\Users\Aluno\Desktop\TCC C#\bkp tcc 0.7\TCC 1.0\TCC 1.0\TCC0.1\bin\Debug\TransferenciasDeObjetos.dll
+C:\Users\Aluno\Desktop\TCC C#\bkp tcc 0.7\TCC 1.0\TCC 1.0\TCC0.1\bin\Debug\ConectaBancoDados.dll
+C:\Users\Aluno\Desktop\TCC C#\bkp tcc 0.7\TCC 1.0\TCC 1.0\TCC0.1\bin\Debug\Negocios.pdb
+C:\Users\Aluno\Desktop\TCC C#\bkp tcc 0.7\TCC 1.0\TCC 1.0\TCC0.1\bin\Debug\TransferenciasDeObjetos.pdb
+C:\Users\Aluno\Desktop\TCC C#\bkp tcc 0.7\TCC 1.0\TCC 1.0\TCC0.1\bin\Debug\ConectaBancoDados.pdb
+C:\Users\Aluno\Desktop\TCC C#\bkp tcc 0.7\TCC 1.0\TCC 1.0\TCC0.1\bin\Debug\ConectaBancoDados.dll.config
+C:\Users\Aluno\Desktop\TCC C#\bkp tcc 0.7\TCC 1.0\TCC 1.0\TCC0.1\obj\Debug\TCC.csprojAssemblyReference.cache
+C:\Users\Aluno\Desktop\TCC C#\bkp tcc 0.7\TCC 1.0\TCC 1.0\TCC0.1\obj\Debug\TCC0._1.Ajuda.resources
+C:\Users\Aluno\Desktop\TCC C#\bkp tcc 0.7\TCC 1.0\TCC 1.0\TCC0.1\obj\Debug\TCC0._1.CadastramentoCliente.resources
+C:\Users\Aluno\Desktop\TCC C#\bkp tcc 0.7\TCC 1.0\TCC 1.0\TCC0.1\obj\Debug\TCC0._1.ConsultaCliente.resources
+C:\Users\Aluno\Desktop\TCC C#\bkp tcc 0.7\TCC 1.0\TCC 1.0\TCC0.1\obj\Debug\TCC0._1.EnvioInformacoes.resources
+C:\Users\Aluno\Desktop\TCC C#\bkp tcc 0.7\TCC 1.0\TCC 1.0\TCC0.1\obj\Debug\TCC0._1.TelaPrincipal.resources
+C:\Users\Aluno\Desktop\TCC C#\bkp tcc 0.7\TCC 1.0\TCC 1.0\TCC0.1\obj\Debug\TCC0._1.Properties.Resources.resources
+C:\Users\Aluno\Desktop\TCC C#\bkp tcc 0.7\TCC 1.0\TCC 1.0\TCC0.1\obj\Debug\TCC0._1.RelatorioDesingn.resources
+C:\Users\Aluno\Desktop\TCC C#\bkp tcc 0.7\TCC 1.0\TCC 1.0\TCC0.1\obj\Debug\TCC.csproj.GenerateResource.cache
+C:\Users\Aluno\Desktop\TCC C#\bkp tcc 0.7\TCC 1.0\TCC 1.0\TCC0.1\obj\Debug\TCC.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Desktop\TCC C#\bkp tcc 0.7\TCC 1.0\TCC 1.0\TCC0.1\obj\Debug\TCC.csproj.CopyComplete
+C:\Users\Aluno\Desktop\TCC C#\bkp tcc 0.7\TCC 1.0\TCC 1.0\TCC0.1\obj\Debug\TCC0.1.exe
+C:\Users\Aluno\Desktop\TCC C#\bkp tcc 0.7\TCC 1.0\TCC 1.0\TCC0.1\obj\Debug\TCC0.1.pdb
+F:\faz saporra ai gomes\TCC C#\bkp tcc 0.7\TCC 1.0\TCC 1.0\TCC0.1\obj\Debug\TCC.csprojAssemblyReference.cache
+F:\faz saporra ai gomes\TCC C#\bkp tcc 0.7\TCC 1.0\TCC 1.0\TCC0.1\obj\Debug\TCC0._1.Ajuda.resources
+F:\faz saporra ai gomes\TCC C#\bkp tcc 0.7\TCC 1.0\TCC 1.0\TCC0.1\obj\Debug\TCC0._1.CadastramentoCliente.resources
+F:\faz saporra ai gomes\TCC C#\bkp tcc 0.7\TCC 1.0\TCC 1.0\TCC0.1\obj\Debug\TCC0._1.ConsultaCliente.resources
+F:\faz saporra ai gomes\TCC C#\bkp tcc 0.7\TCC 1.0\TCC 1.0\TCC0.1\obj\Debug\TCC0._1.EnvioInformacoes.resources
+F:\faz saporra ai gomes\TCC C#\bkp tcc 0.7\TCC 1.0\TCC 1.0\TCC0.1\obj\Debug\TCC0._1.TelaPrincipal.resources
+F:\faz saporra ai gomes\TCC C#\bkp tcc 0.7\TCC 1.0\TCC 1.0\TCC0.1\obj\Debug\TCC0._1.Properties.Resources.resources
+F:\faz saporra ai gomes\TCC C#\bkp tcc 0.7\TCC 1.0\TCC 1.0\TCC0.1\obj\Debug\TCC0._1.RelatorioDesingn.resources
+F:\faz saporra ai gomes\TCC C#\bkp tcc 0.7\TCC 1.0\TCC 1.0\TCC0.1\obj\Debug\TCC.csproj.GenerateResource.cache
+F:\faz saporra ai gomes\TCC C#\bkp tcc 0.7\TCC 1.0\TCC 1.0\TCC0.1\obj\Debug\TCC.csproj.CoreCompileInputs.cache
+F:\faz saporra ai gomes\TCC C#\bkp tcc 0.7\TCC 1.0\TCC 1.0\TCC0.1\obj\Debug\TCC0.1.exe
+F:\faz saporra ai gomes\TCC C#\bkp tcc 0.7\TCC 1.0\TCC 1.0\TCC0.1\obj\Debug\TCC0.1.pdb
+F:\faz saporra ai gomes\TCC C#\bkp tcc 0.7\TCC 1.0\TCC 1.0\TCC0.1\bin\Debug\TCC0.1.exe.config
+F:\faz saporra ai gomes\TCC C#\bkp tcc 0.7\TCC 1.0\TCC 1.0\TCC0.1\bin\Debug\TCC0.1.exe
+F:\faz saporra ai gomes\TCC C#\bkp tcc 0.7\TCC 1.0\TCC 1.0\TCC0.1\bin\Debug\TCC0.1.pdb
+F:\faz saporra ai gomes\TCC C#\bkp tcc 0.7\TCC 1.0\TCC 1.0\TCC0.1\bin\Debug\Negocios.dll
+F:\faz saporra ai gomes\TCC C#\bkp tcc 0.7\TCC 1.0\TCC 1.0\TCC0.1\bin\Debug\TransferenciasDeObjetos.dll
+F:\faz saporra ai gomes\TCC C#\bkp tcc 0.7\TCC 1.0\TCC 1.0\TCC0.1\bin\Debug\ConectaBancoDados.dll
+F:\faz saporra ai gomes\TCC C#\bkp tcc 0.7\TCC 1.0\TCC 1.0\TCC0.1\bin\Debug\Negocios.pdb
+F:\faz saporra ai gomes\TCC C#\bkp tcc 0.7\TCC 1.0\TCC 1.0\TCC0.1\bin\Debug\TransferenciasDeObjetos.pdb
+F:\faz saporra ai gomes\TCC C#\bkp tcc 0.7\TCC 1.0\TCC 1.0\TCC0.1\bin\Debug\ConectaBancoDados.pdb
+F:\faz saporra ai gomes\TCC C#\bkp tcc 0.7\TCC 1.0\TCC 1.0\TCC0.1\bin\Debug\ConectaBancoDados.dll.config
+F:\faz saporra ai gomes\TCC C#\bkp tcc 0.7\TCC 1.0\TCC 1.0\TCC0.1\obj\Debug\TCC.csproj.CopyComplete
+F:\TCC 1.0.1\TCC C#\bkp tcc 0.7\TCC 1.0\TCC 1.0\TCC0.1\bin\Debug\TCC0.1.exe.config
+F:\TCC 1.0.1\TCC C#\bkp tcc 0.7\TCC 1.0\TCC 1.0\TCC0.1\bin\Debug\TCC0.1.exe
+F:\TCC 1.0.1\TCC C#\bkp tcc 0.7\TCC 1.0\TCC 1.0\TCC0.1\bin\Debug\TCC0.1.pdb
+F:\TCC 1.0.1\TCC C#\bkp tcc 0.7\TCC 1.0\TCC 1.0\TCC0.1\bin\Debug\Negocios.dll
+F:\TCC 1.0.1\TCC C#\bkp tcc 0.7\TCC 1.0\TCC 1.0\TCC0.1\bin\Debug\TransferenciasDeObjetos.dll
+F:\TCC 1.0.1\TCC C#\bkp tcc 0.7\TCC 1.0\TCC 1.0\TCC0.1\bin\Debug\ConectaBancoDados.dll
+F:\TCC 1.0.1\TCC C#\bkp tcc 0.7\TCC 1.0\TCC 1.0\TCC0.1\bin\Debug\Negocios.pdb
+F:\TCC 1.0.1\TCC C#\bkp tcc 0.7\TCC 1.0\TCC 1.0\TCC0.1\bin\Debug\TransferenciasDeObjetos.pdb
+F:\TCC 1.0.1\TCC C#\bkp tcc 0.7\TCC 1.0\TCC 1.0\TCC0.1\bin\Debug\ConectaBancoDados.pdb
+F:\TCC 1.0.1\TCC C#\bkp tcc 0.7\TCC 1.0\TCC 1.0\TCC0.1\bin\Debug\ConectaBancoDados.dll.config
+F:\TCC 1.0.1\TCC C#\bkp tcc 0.7\TCC 1.0\TCC 1.0\TCC0.1\obj\Debug\TCC.csprojAssemblyReference.cache
+F:\TCC 1.0.1\TCC C#\bkp tcc 0.7\TCC 1.0\TCC 1.0\TCC0.1\obj\Debug\TCC0._1.Ajuda.resources
+F:\TCC 1.0.1\TCC C#\bkp tcc 0.7\TCC 1.0\TCC 1.0\TCC0.1\obj\Debug\TCC0._1.CadastramentoCliente.resources
+F:\TCC 1.0.1\TCC C#\bkp tcc 0.7\TCC 1.0\TCC 1.0\TCC0.1\obj\Debug\TCC0._1.ConsultaCliente.resources
+F:\TCC 1.0.1\TCC C#\bkp tcc 0.7\TCC 1.0\TCC 1.0\TCC0.1\obj\Debug\TCC0._1.EnvioInformacoes.resources
+F:\TCC 1.0.1\TCC C#\bkp tcc 0.7\TCC 1.0\TCC 1.0\TCC0.1\obj\Debug\TCC0._1.TelaPrincipal.resources
+F:\TCC 1.0.1\TCC C#\bkp tcc 0.7\TCC 1.0\TCC 1.0\TCC0.1\obj\Debug\TCC0._1.Properties.Resources.resources
+F:\TCC 1.0.1\TCC C#\bkp tcc 0.7\TCC 1.0\TCC 1.0\TCC0.1\obj\Debug\TCC0._1.RelatorioDesingn.resources
+F:\TCC 1.0.1\TCC C#\bkp tcc 0.7\TCC 1.0\TCC 1.0\TCC0.1\obj\Debug\TCC.csproj.GenerateResource.cache
+F:\TCC 1.0.1\TCC C#\bkp tcc 0.7\TCC 1.0\TCC 1.0\TCC0.1\obj\Debug\TCC.csproj.CoreCompileInputs.cache
+F:\TCC 1.0.1\TCC C#\bkp tcc 0.7\TCC 1.0\TCC 1.0\TCC0.1\obj\Debug\TCC.csproj.CopyComplete
+F:\TCC 1.0.1\TCC C#\bkp tcc 0.7\TCC 1.0\TCC 1.0\TCC0.1\obj\Debug\TCC0.1.exe
+F:\TCC 1.0.1\TCC C#\bkp tcc 0.7\TCC 1.0\TCC 1.0\TCC0.1\obj\Debug\TCC0.1.pdb
+C:\Users\erisv\OneDrive\Área de Trabalho\TCC 1.0.1\TCC C#\bkp tcc 0.7\TCC 1.0\TCC 1.0\TCC0.1\bin\Debug\TCC0.1.exe.config
+C:\Users\erisv\OneDrive\Área de Trabalho\TCC 1.0.1\TCC C#\bkp tcc 0.7\TCC 1.0\TCC 1.0\TCC0.1\bin\Debug\TCC0.1.exe
+C:\Users\erisv\OneDrive\Área de Trabalho\TCC 1.0.1\TCC C#\bkp tcc 0.7\TCC 1.0\TCC 1.0\TCC0.1\bin\Debug\TCC0.1.pdb
+C:\Users\erisv\OneDrive\Área de Trabalho\TCC 1.0.1\TCC C#\bkp tcc 0.7\TCC 1.0\TCC 1.0\TCC0.1\bin\Debug\Negocios.dll
+C:\Users\erisv\OneDrive\Área de Trabalho\TCC 1.0.1\TCC C#\bkp tcc 0.7\TCC 1.0\TCC 1.0\TCC0.1\bin\Debug\TransferenciasDeObjetos.dll
+C:\Users\erisv\OneDrive\Área de Trabalho\TCC 1.0.1\TCC C#\bkp tcc 0.7\TCC 1.0\TCC 1.0\TCC0.1\bin\Debug\ConectaBancoDados.dll
+C:\Users\erisv\OneDrive\Área de Trabalho\TCC 1.0.1\TCC C#\bkp tcc 0.7\TCC 1.0\TCC 1.0\TCC0.1\bin\Debug\Negocios.pdb
+C:\Users\erisv\OneDrive\Área de Trabalho\TCC 1.0.1\TCC C#\bkp tcc 0.7\TCC 1.0\TCC 1.0\TCC0.1\bin\Debug\TransferenciasDeObjetos.pdb
+C:\Users\erisv\OneDrive\Área de Trabalho\TCC 1.0.1\TCC C#\bkp tcc 0.7\TCC 1.0\TCC 1.0\TCC0.1\bin\Debug\ConectaBancoDados.pdb
+C:\Users\erisv\OneDrive\Área de Trabalho\TCC 1.0.1\TCC C#\bkp tcc 0.7\TCC 1.0\TCC 1.0\TCC0.1\bin\Debug\ConectaBancoDados.dll.config
+C:\Users\erisv\OneDrive\Área de Trabalho\TCC 1.0.1\TCC C#\bkp tcc 0.7\TCC 1.0\TCC 1.0\TCC0.1\obj\Debug\TCC.csprojAssemblyReference.cache
+C:\Users\erisv\OneDrive\Área de Trabalho\TCC 1.0.1\TCC C#\bkp tcc 0.7\TCC 1.0\TCC 1.0\TCC0.1\obj\Debug\TCC0._1.Ajuda.resources
+C:\Users\erisv\OneDrive\Área de Trabalho\TCC 1.0.1\TCC C#\bkp tcc 0.7\TCC 1.0\TCC 1.0\TCC0.1\obj\Debug\TCC0._1.CadastramentoCliente.resources
+C:\Users\erisv\OneDrive\Área de Trabalho\TCC 1.0.1\TCC C#\bkp tcc 0.7\TCC 1.0\TCC 1.0\TCC0.1\obj\Debug\TCC0._1.ConsultaCliente.resources
+C:\Users\erisv\OneDrive\Área de Trabalho\TCC 1.0.1\TCC C#\bkp tcc 0.7\TCC 1.0\TCC 1.0\TCC0.1\obj\Debug\TCC0._1.EnvioInformacoes.resources
+C:\Users\erisv\OneDrive\Área de Trabalho\TCC 1.0.1\TCC C#\bkp tcc 0.7\TCC 1.0\TCC 1.0\TCC0.1\obj\Debug\TCC0._1.TelaPrincipal.resources
+C:\Users\erisv\OneDrive\Área de Trabalho\TCC 1.0.1\TCC C#\bkp tcc 0.7\TCC 1.0\TCC 1.0\TCC0.1\obj\Debug\TCC0._1.Properties.Resources.resources
+C:\Users\erisv\OneDrive\Área de Trabalho\TCC 1.0.1\TCC C#\bkp tcc 0.7\TCC 1.0\TCC 1.0\TCC0.1\obj\Debug\TCC0._1.RelatorioDesingn.resources
+C:\Users\erisv\OneDrive\Área de Trabalho\TCC 1.0.1\TCC C#\bkp tcc 0.7\TCC 1.0\TCC 1.0\TCC0.1\obj\Debug\TCC.csproj.GenerateResource.cache
+C:\Users\erisv\OneDrive\Área de Trabalho\TCC 1.0.1\TCC C#\bkp tcc 0.7\TCC 1.0\TCC 1.0\TCC0.1\obj\Debug\TCC.csproj.CoreCompileInputs.cache
+C:\Users\erisv\OneDrive\Área de Trabalho\TCC 1.0.1\TCC C#\bkp tcc 0.7\TCC 1.0\TCC 1.0\TCC0.1\obj\Debug\TCC.csproj.CopyComplete
+C:\Users\erisv\OneDrive\Área de Trabalho\TCC 1.0.1\TCC C#\bkp tcc 0.7\TCC 1.0\TCC 1.0\TCC0.1\obj\Debug\TCC0.1.exe
+C:\Users\erisv\OneDrive\Área de Trabalho\TCC 1.0.1\TCC C#\bkp tcc 0.7\TCC 1.0\TCC 1.0\TCC0.1\obj\Debug\TCC0.1.pdb
+E:\Versão TCC's\TCC 1.0.2\TCC C#\bkp tcc 0.7\TCC 1.0\TCC 1.0\TCC0.1\bin\Debug\TCC0.1.exe.config
+E:\Versão TCC's\TCC 1.0.2\TCC C#\bkp tcc 0.7\TCC 1.0\TCC 1.0\TCC0.1\bin\Debug\TCC0.1.exe
+E:\Versão TCC's\TCC 1.0.2\TCC C#\bkp tcc 0.7\TCC 1.0\TCC 1.0\TCC0.1\bin\Debug\TCC0.1.pdb
+E:\Versão TCC's\TCC 1.0.2\TCC C#\bkp tcc 0.7\TCC 1.0\TCC 1.0\TCC0.1\bin\Debug\Negocios.dll
+E:\Versão TCC's\TCC 1.0.2\TCC C#\bkp tcc 0.7\TCC 1.0\TCC 1.0\TCC0.1\bin\Debug\TransferenciasDeObjetos.dll
+E:\Versão TCC's\TCC 1.0.2\TCC C#\bkp tcc 0.7\TCC 1.0\TCC 1.0\TCC0.1\bin\Debug\ConectaBancoDados.dll
+E:\Versão TCC's\TCC 1.0.2\TCC C#\bkp tcc 0.7\TCC 1.0\TCC 1.0\TCC0.1\bin\Debug\Negocios.pdb
+E:\Versão TCC's\TCC 1.0.2\TCC C#\bkp tcc 0.7\TCC 1.0\TCC 1.0\TCC0.1\bin\Debug\TransferenciasDeObjetos.pdb
+E:\Versão TCC's\TCC 1.0.2\TCC C#\bkp tcc 0.7\TCC 1.0\TCC 1.0\TCC0.1\bin\Debug\ConectaBancoDados.pdb
+E:\Versão TCC's\TCC 1.0.2\TCC C#\bkp tcc 0.7\TCC 1.0\TCC 1.0\TCC0.1\bin\Debug\ConectaBancoDados.dll.config
+E:\Versão TCC's\TCC 1.0.2\TCC C#\bkp tcc 0.7\TCC 1.0\TCC 1.0\TCC0.1\obj\Debug\TCC.csprojAssemblyReference.cache
+E:\Versão TCC's\TCC 1.0.2\TCC C#\bkp tcc 0.7\TCC 1.0\TCC 1.0\TCC0.1\obj\Debug\TCC0._1.Ajuda.resources
+E:\Versão TCC's\TCC 1.0.2\TCC C#\bkp tcc 0.7\TCC 1.0\TCC 1.0\TCC0.1\obj\Debug\TCC0._1.CadastramentoCliente.resources
+E:\Versão TCC's\TCC 1.0.2\TCC C#\bkp tcc 0.7\TCC 1.0\TCC 1.0\TCC0.1\obj\Debug\TCC0._1.ConsultaCliente.resources
+E:\Versão TCC's\TCC 1.0.2\TCC C#\bkp tcc 0.7\TCC 1.0\TCC 1.0\TCC0.1\obj\Debug\TCC0._1.EnvioInformacoes.resources
+E:\Versão TCC's\TCC 1.0.2\TCC C#\bkp tcc 0.7\TCC 1.0\TCC 1.0\TCC0.1\obj\Debug\TCC0._1.TelaPrincipal.resources
+E:\Versão TCC's\TCC 1.0.2\TCC C#\bkp tcc 0.7\TCC 1.0\TCC 1.0\TCC0.1\obj\Debug\TCC0._1.Properties.Resources.resources
+E:\Versão TCC's\TCC 1.0.2\TCC C#\bkp tcc 0.7\TCC 1.0\TCC 1.0\TCC0.1\obj\Debug\TCC0._1.RelatorioDesingn.resources
+E:\Versão TCC's\TCC 1.0.2\TCC C#\bkp tcc 0.7\TCC 1.0\TCC 1.0\TCC0.1\obj\Debug\TCC.csproj.GenerateResource.cache
+E:\Versão TCC's\TCC 1.0.2\TCC C#\bkp tcc 0.7\TCC 1.0\TCC 1.0\TCC0.1\obj\Debug\TCC.csproj.CoreCompileInputs.cache
+E:\Versão TCC's\TCC 1.0.2\TCC C#\bkp tcc 0.7\TCC 1.0\TCC 1.0\TCC0.1\obj\Debug\TCC.csproj.CopyComplete
+E:\Versão TCC's\TCC 1.0.2\TCC C#\bkp tcc 0.7\TCC 1.0\TCC 1.0\TCC0.1\obj\Debug\TCC0.1.exe
+E:\Versão TCC's\TCC 1.0.2\TCC C#\bkp tcc 0.7\TCC 1.0\TCC 1.0\TCC0.1\obj\Debug\TCC0.1.pdb
+C:\Users\Higor Washington\Desktop\TCC C#\bkp tcc 0.7\TCC 1.0\TCC 1.0\TCC0.1\bin\Debug\TCC0.1.exe.config
+C:\Users\Higor Washington\Desktop\TCC C#\bkp tcc 0.7\TCC 1.0\TCC 1.0\TCC0.1\bin\Debug\TCC0.1.exe
+C:\Users\Higor Washington\Desktop\TCC C#\bkp tcc 0.7\TCC 1.0\TCC 1.0\TCC0.1\bin\Debug\TCC0.1.pdb
+C:\Users\Higor Washington\Desktop\TCC C#\bkp tcc 0.7\TCC 1.0\TCC 1.0\TCC0.1\bin\Debug\Negocios.dll
+C:\Users\Higor Washington\Desktop\TCC C#\bkp tcc 0.7\TCC 1.0\TCC 1.0\TCC0.1\bin\Debug\TransferenciasDeObjetos.dll
+C:\Users\Higor Washington\Desktop\TCC C#\bkp tcc 0.7\TCC 1.0\TCC 1.0\TCC0.1\bin\Debug\ConectaBancoDados.dll
+C:\Users\Higor Washington\Desktop\TCC C#\bkp tcc 0.7\TCC 1.0\TCC 1.0\TCC0.1\bin\Debug\Negocios.pdb
+C:\Users\Higor Washington\Desktop\TCC C#\bkp tcc 0.7\TCC 1.0\TCC 1.0\TCC0.1\bin\Debug\TransferenciasDeObjetos.pdb
+C:\Users\Higor Washington\Desktop\TCC C#\bkp tcc 0.7\TCC 1.0\TCC 1.0\TCC0.1\bin\Debug\ConectaBancoDados.pdb
+C:\Users\Higor Washington\Desktop\TCC C#\bkp tcc 0.7\TCC 1.0\TCC 1.0\TCC0.1\bin\Debug\ConectaBancoDados.dll.config
+C:\Users\Higor Washington\Desktop\TCC C#\bkp tcc 0.7\TCC 1.0\TCC 1.0\TCC0.1\obj\Debug\TCC.csprojAssemblyReference.cache
+C:\Users\Higor Washington\Desktop\TCC C#\bkp tcc 0.7\TCC 1.0\TCC 1.0\TCC0.1\obj\Debug\TCC0._1.Ajuda.resources
+C:\Users\Higor Washington\Desktop\TCC C#\bkp tcc 0.7\TCC 1.0\TCC 1.0\TCC0.1\obj\Debug\TCC0._1.CadastramentoCliente.resources
+C:\Users\Higor Washington\Desktop\TCC C#\bkp tcc 0.7\TCC 1.0\TCC 1.0\TCC0.1\obj\Debug\TCC0._1.ConsultaCliente.resources
+C:\Users\Higor Washington\Desktop\TCC C#\bkp tcc 0.7\TCC 1.0\TCC 1.0\TCC0.1\obj\Debug\TCC0._1.EnvioInformacoes.resources
+C:\Users\Higor Washington\Desktop\TCC C#\bkp tcc 0.7\TCC 1.0\TCC 1.0\TCC0.1\obj\Debug\TCC0._1.TelaPrincipal.resources
+C:\Users\Higor Washington\Desktop\TCC C#\bkp tcc 0.7\TCC 1.0\TCC 1.0\TCC0.1\obj\Debug\TCC0._1.Properties.Resources.resources
+C:\Users\Higor Washington\Desktop\TCC C#\bkp tcc 0.7\TCC 1.0\TCC 1.0\TCC0.1\obj\Debug\TCC0._1.RelatorioDesingn.resources
+C:\Users\Higor Washington\Desktop\TCC C#\bkp tcc 0.7\TCC 1.0\TCC 1.0\TCC0.1\obj\Debug\TCC.csproj.GenerateResource.cache
+C:\Users\Higor Washington\Desktop\TCC C#\bkp tcc 0.7\TCC 1.0\TCC 1.0\TCC0.1\obj\Debug\TCC.csproj.CoreCompileInputs.cache
+C:\Users\Higor Washington\Desktop\TCC C#\bkp tcc 0.7\TCC 1.0\TCC 1.0\TCC0.1\obj\Debug\TCC.csproj.CopyComplete
+C:\Users\Higor Washington\Desktop\TCC C#\bkp tcc 0.7\TCC 1.0\TCC 1.0\TCC0.1\obj\Debug\TCC0.1.exe
+C:\Users\Higor Washington\Desktop\TCC C#\bkp tcc 0.7\TCC 1.0\TCC 1.0\TCC0.1\obj\Debug\TCC0.1.pdb
+D:\Versão TCC's\TCC 1.0.2\TCC C#\bkp tcc 0.7\TCC 1.0\TCC 1.0\TCC0.1\bin\Debug\TCC0.1.exe.config
+D:\Versão TCC's\TCC 1.0.2\TCC C#\bkp tcc 0.7\TCC 1.0\TCC 1.0\TCC0.1\bin\Debug\TCC0.1.exe
+D:\Versão TCC's\TCC 1.0.2\TCC C#\bkp tcc 0.7\TCC 1.0\TCC 1.0\TCC0.1\bin\Debug\TCC0.1.pdb
+D:\Versão TCC's\TCC 1.0.2\TCC C#\bkp tcc 0.7\TCC 1.0\TCC 1.0\TCC0.1\bin\Debug\Negocios.dll
+D:\Versão TCC's\TCC 1.0.2\TCC C#\bkp tcc 0.7\TCC 1.0\TCC 1.0\TCC0.1\bin\Debug\TransferenciasDeObjetos.dll
+D:\Versão TCC's\TCC 1.0.2\TCC C#\bkp tcc 0.7\TCC 1.0\TCC 1.0\TCC0.1\bin\Debug\ConectaBancoDados.dll
+D:\Versão TCC's\TCC 1.0.2\TCC C#\bkp tcc 0.7\TCC 1.0\TCC 1.0\TCC0.1\bin\Debug\Negocios.pdb
+D:\Versão TCC's\TCC 1.0.2\TCC C#\bkp tcc 0.7\TCC 1.0\TCC 1.0\TCC0.1\bin\Debug\TransferenciasDeObjetos.pdb
+D:\Versão TCC's\TCC 1.0.2\TCC C#\bkp tcc 0.7\TCC 1.0\TCC 1.0\TCC0.1\bin\Debug\ConectaBancoDados.pdb
+D:\Versão TCC's\TCC 1.0.2\TCC C#\bkp tcc 0.7\TCC 1.0\TCC 1.0\TCC0.1\bin\Debug\ConectaBancoDados.dll.config
+D:\Versão TCC's\TCC 1.0.2\TCC C#\bkp tcc 0.7\TCC 1.0\TCC 1.0\TCC0.1\obj\Debug\TCC.csprojAssemblyReference.cache
+D:\Versão TCC's\TCC 1.0.2\TCC C#\bkp tcc 0.7\TCC 1.0\TCC 1.0\TCC0.1\obj\Debug\TCC0._1.Ajuda.resources
+D:\Versão TCC's\TCC 1.0.2\TCC C#\bkp tcc 0.7\TCC 1.0\TCC 1.0\TCC0.1\obj\Debug\TCC0._1.CadastramentoCliente.resources
+D:\Versão TCC's\TCC 1.0.2\TCC C#\bkp tcc 0.7\TCC 1.0\TCC 1.0\TCC0.1\obj\Debug\TCC0._1.ConsultaCliente.resources
+D:\Versão TCC's\TCC 1.0.2\TCC C#\bkp tcc 0.7\TCC 1.0\TCC 1.0\TCC0.1\obj\Debug\TCC0._1.EnvioInformacoes.resources
+D:\Versão TCC's\TCC 1.0.2\TCC C#\bkp tcc 0.7\TCC 1.0\TCC 1.0\TCC0.1\obj\Debug\TCC0._1.TelaPrincipal.resources
+D:\Versão TCC's\TCC 1.0.2\TCC C#\bkp tcc 0.7\TCC 1.0\TCC 1.0\TCC0.1\obj\Debug\TCC0._1.Properties.Resources.resources
+D:\Versão TCC's\TCC 1.0.2\TCC C#\bkp tcc 0.7\TCC 1.0\TCC 1.0\TCC0.1\obj\Debug\TCC0._1.RelatorioDesingn.resources
+D:\Versão TCC's\TCC 1.0.2\TCC C#\bkp tcc 0.7\TCC 1.0\TCC 1.0\TCC0.1\obj\Debug\TCC.csproj.GenerateResource.cache
+D:\Versão TCC's\TCC 1.0.2\TCC C#\bkp tcc 0.7\TCC 1.0\TCC 1.0\TCC0.1\obj\Debug\TCC.csproj.CoreCompileInputs.cache
+D:\Versão TCC's\TCC 1.0.2\TCC C#\bkp tcc 0.7\TCC 1.0\TCC 1.0\TCC0.1\obj\Debug\TCC.csproj.CopyComplete
+D:\Versão TCC's\TCC 1.0.2\TCC C#\bkp tcc 0.7\TCC 1.0\TCC 1.0\TCC0.1\obj\Debug\TCC0.1.exe
+D:\Versão TCC's\TCC 1.0.2\TCC C#\bkp tcc 0.7\TCC 1.0\TCC 1.0\TCC0.1\obj\Debug\TCC0.1.pdb
+F:\Versão TCC's\TCC 1.0.2\TCC C#\bkp tcc 0.7\TCC 1.0\TCC 1.0\TCC0.1\bin\Debug\TCC0.1.exe.config
+F:\Versão TCC's\TCC 1.0.2\TCC C#\bkp tcc 0.7\TCC 1.0\TCC 1.0\TCC0.1\bin\Debug\TCC0.1.exe
+F:\Versão TCC's\TCC 1.0.2\TCC C#\bkp tcc 0.7\TCC 1.0\TCC 1.0\TCC0.1\bin\Debug\TCC0.1.pdb
+F:\Versão TCC's\TCC 1.0.2\TCC C#\bkp tcc 0.7\TCC 1.0\TCC 1.0\TCC0.1\bin\Debug\Negocios.dll
+F:\Versão TCC's\TCC 1.0.2\TCC C#\bkp tcc 0.7\TCC 1.0\TCC 1.0\TCC0.1\bin\Debug\TransferenciasDeObjetos.dll
+F:\Versão TCC's\TCC 1.0.2\TCC C#\bkp tcc 0.7\TCC 1.0\TCC 1.0\TCC0.1\bin\Debug\ConectaBancoDados.dll
+F:\Versão TCC's\TCC 1.0.2\TCC C#\bkp tcc 0.7\TCC 1.0\TCC 1.0\TCC0.1\bin\Debug\Negocios.pdb
+F:\Versão TCC's\TCC 1.0.2\TCC C#\bkp tcc 0.7\TCC 1.0\TCC 1.0\TCC0.1\bin\Debug\TransferenciasDeObjetos.pdb
+F:\Versão TCC's\TCC 1.0.2\TCC C#\bkp tcc 0.7\TCC 1.0\TCC 1.0\TCC0.1\bin\Debug\ConectaBancoDados.pdb
+F:\Versão TCC's\TCC 1.0.2\TCC C#\bkp tcc 0.7\TCC 1.0\TCC 1.0\TCC0.1\bin\Debug\ConectaBancoDados.dll.config
+F:\Versão TCC's\TCC 1.0.2\TCC C#\bkp tcc 0.7\TCC 1.0\TCC 1.0\TCC0.1\obj\Debug\TCC.csprojAssemblyReference.cache
+F:\Versão TCC's\TCC 1.0.2\TCC C#\bkp tcc 0.7\TCC 1.0\TCC 1.0\TCC0.1\obj\Debug\TCC0._1.Ajuda.resources
+F:\Versão TCC's\TCC 1.0.2\TCC C#\bkp tcc 0.7\TCC 1.0\TCC 1.0\TCC0.1\obj\Debug\TCC0._1.CadastramentoCliente.resources
+F:\Versão TCC's\TCC 1.0.2\TCC C#\bkp tcc 0.7\TCC 1.0\TCC 1.0\TCC0.1\obj\Debug\TCC0._1.ConsultaCliente.resources
+F:\Versão TCC's\TCC 1.0.2\TCC C#\bkp tcc 0.7\TCC 1.0\TCC 1.0\TCC0.1\obj\Debug\TCC0._1.EnvioInformacoes.resources
+F:\Versão TCC's\TCC 1.0.2\TCC C#\bkp tcc 0.7\TCC 1.0\TCC 1.0\TCC0.1\obj\Debug\TCC0._1.TelaPrincipal.resources
+F:\Versão TCC's\TCC 1.0.2\TCC C#\bkp tcc 0.7\TCC 1.0\TCC 1.0\TCC0.1\obj\Debug\TCC0._1.Properties.Resources.resources
+F:\Versão TCC's\TCC 1.0.2\TCC C#\bkp tcc 0.7\TCC 1.0\TCC 1.0\TCC0.1\obj\Debug\TCC0._1.RelatorioDesingn.resources
+F:\Versão TCC's\TCC 1.0.2\TCC C#\bkp tcc 0.7\TCC 1.0\TCC 1.0\TCC0.1\obj\Debug\TCC.csproj.GenerateResource.cache
+F:\Versão TCC's\TCC 1.0.2\TCC C#\bkp tcc 0.7\TCC 1.0\TCC 1.0\TCC0.1\obj\Debug\TCC.csproj.CoreCompileInputs.cache
+F:\Versão TCC's\TCC 1.0.2\TCC C#\bkp tcc 0.7\TCC 1.0\TCC 1.0\TCC0.1\obj\Debug\TCC.csproj.CopyComplete
+F:\Versão TCC's\TCC 1.0.2\TCC C#\bkp tcc 0.7\TCC 1.0\TCC 1.0\TCC0.1\obj\Debug\TCC0.1.exe
+F:\Versão TCC's\TCC 1.0.2\TCC C#\bkp tcc 0.7\TCC 1.0\TCC 1.0\TCC0.1\obj\Debug\TCC0.1.pdb
+C:\Users\erisv\OneDrive\Área de Trabalho\TCC 1.0\TCC0.1\bin\Debug\TCC0.1.exe.config
+C:\Users\erisv\OneDrive\Área de Trabalho\TCC 1.0\TCC0.1\bin\Debug\TCC0.1.exe
+C:\Users\erisv\OneDrive\Área de Trabalho\TCC 1.0\TCC0.1\bin\Debug\TCC0.1.pdb
+C:\Users\erisv\OneDrive\Área de Trabalho\TCC 1.0\TCC0.1\bin\Debug\Negocios.dll
+C:\Users\erisv\OneDrive\Área de Trabalho\TCC 1.0\TCC0.1\bin\Debug\TransferenciasDeObjetos.dll
+C:\Users\erisv\OneDrive\Área de Trabalho\TCC 1.0\TCC0.1\bin\Debug\ConectaBancoDados.dll
+C:\Users\erisv\OneDrive\Área de Trabalho\TCC 1.0\TCC0.1\bin\Debug\Negocios.pdb
+C:\Users\erisv\OneDrive\Área de Trabalho\TCC 1.0\TCC0.1\bin\Debug\TransferenciasDeObjetos.pdb
+C:\Users\erisv\OneDrive\Área de Trabalho\TCC 1.0\TCC0.1\bin\Debug\ConectaBancoDados.pdb
+C:\Users\erisv\OneDrive\Área de Trabalho\TCC 1.0\TCC0.1\bin\Debug\ConectaBancoDados.dll.config
+C:\Users\erisv\OneDrive\Área de Trabalho\TCC 1.0\TCC0.1\obj\Debug\TCC.csprojAssemblyReference.cache
+C:\Users\erisv\OneDrive\Área de Trabalho\TCC 1.0\TCC0.1\obj\Debug\TCC0._1.Ajuda.resources
+C:\Users\erisv\OneDrive\Área de Trabalho\TCC 1.0\TCC0.1\obj\Debug\TCC0._1.CadastramentoCliente.resources
+C:\Users\erisv\OneDrive\Área de Trabalho\TCC 1.0\TCC0.1\obj\Debug\TCC0._1.ConsultaCliente.resources
+C:\Users\erisv\OneDrive\Área de Trabalho\TCC 1.0\TCC0.1\obj\Debug\TCC0._1.EnvioInformacoes.resources
+C:\Users\erisv\OneDrive\Área de Trabalho\TCC 1.0\TCC0.1\obj\Debug\TCC0._1.TelaPrincipal.resources
+C:\Users\erisv\OneDrive\Área de Trabalho\TCC 1.0\TCC0.1\obj\Debug\TCC0._1.Properties.Resources.resources
+C:\Users\erisv\OneDrive\Área de Trabalho\TCC 1.0\TCC0.1\obj\Debug\TCC0._1.RelatorioDesingn.resources
+C:\Users\erisv\OneDrive\Área de Trabalho\TCC 1.0\TCC0.1\obj\Debug\TCC.csproj.GenerateResource.cache
+C:\Users\erisv\OneDrive\Área de Trabalho\TCC 1.0\TCC0.1\obj\Debug\TCC.csproj.CoreCompileInputs.cache
+C:\Users\erisv\OneDrive\Área de Trabalho\TCC 1.0\TCC0.1\obj\Debug\TCC.csproj.CopyComplete
+C:\Users\erisv\OneDrive\Área de Trabalho\TCC 1.0\TCC0.1\obj\Debug\TCC0.1.exe
+C:\Users\erisv\OneDrive\Área de Trabalho\TCC 1.0\TCC0.1\obj\Debug\TCC0.1.pdb
+C:\Users\erisv\OneDrive\Área de Trabalho\TCC 1.0.4\TCC0.1\obj\Debug\TCC.csprojAssemblyReference.cache
+C:\Users\erisv\OneDrive\Área de Trabalho\TCC 1.0.4\TCC0.1\obj\Debug\TCC0._1.Ajuda.resources
+C:\Users\erisv\OneDrive\Área de Trabalho\TCC 1.0.4\TCC0.1\obj\Debug\TCC0._1.CadastramentoCliente.resources
+C:\Users\erisv\OneDrive\Área de Trabalho\TCC 1.0.4\TCC0.1\obj\Debug\TCC0._1.ConsultaCliente.resources
+C:\Users\erisv\OneDrive\Área de Trabalho\TCC 1.0.4\TCC0.1\obj\Debug\TCC0._1.EnvioInformacoes.resources
+C:\Users\erisv\OneDrive\Área de Trabalho\TCC 1.0.4\TCC0.1\obj\Debug\TCC0._1.TelaPrincipal.resources
+C:\Users\erisv\OneDrive\Área de Trabalho\TCC 1.0.4\TCC0.1\obj\Debug\TCC0._1.Properties.Resources.resources
+C:\Users\erisv\OneDrive\Área de Trabalho\TCC 1.0.4\TCC0.1\obj\Debug\TCC0._1.RelatorioDesingn.resources
+C:\Users\erisv\OneDrive\Área de Trabalho\TCC 1.0.4\TCC0.1\obj\Debug\TCC.csproj.GenerateResource.cache
+C:\Users\erisv\OneDrive\Área de Trabalho\TCC 1.0.4\TCC0.1\obj\Debug\TCC.csproj.CoreCompileInputs.cache
+C:\Users\erisv\OneDrive\Área de Trabalho\TCC 1.0.4\TCC0.1\obj\Debug\TCC0.1.exe
+C:\Users\erisv\OneDrive\Área de Trabalho\TCC 1.0.4\TCC0.1\obj\Debug\TCC0.1.pdb
+C:\Users\erisv\OneDrive\Área de Trabalho\TCC 1.0.4\TCC0.1\bin\Debug\TCC0.1.exe.config
+C:\Users\erisv\OneDrive\Área de Trabalho\TCC 1.0.4\TCC0.1\bin\Debug\TCC0.1.exe
+C:\Users\erisv\OneDrive\Área de Trabalho\TCC 1.0.4\TCC0.1\bin\Debug\TCC0.1.pdb
+C:\Users\erisv\OneDrive\Área de Trabalho\TCC 1.0.4\TCC0.1\bin\Debug\ConectaBancoDados.dll
+C:\Users\erisv\OneDrive\Área de Trabalho\TCC 1.0.4\TCC0.1\bin\Debug\Negocios.dll
+C:\Users\erisv\OneDrive\Área de Trabalho\TCC 1.0.4\TCC0.1\bin\Debug\TransferenciasDeObjetos.dll
+C:\Users\erisv\OneDrive\Área de Trabalho\TCC 1.0.4\TCC0.1\bin\Debug\ConectaBancoDados.pdb
+C:\Users\erisv\OneDrive\Área de Trabalho\TCC 1.0.4\TCC0.1\bin\Debug\ConectaBancoDados.dll.config
+C:\Users\erisv\OneDrive\Área de Trabalho\TCC 1.0.4\TCC0.1\bin\Debug\Negocios.pdb
+C:\Users\erisv\OneDrive\Área de Trabalho\TCC 1.0.4\TCC0.1\bin\Debug\TransferenciasDeObjetos.pdb
+C:\Users\erisv\OneDrive\Área de Trabalho\TCC 1.0.4\TCC0.1\obj\Debug\TCC.csproj.CopyComplete
+F:\TCC 1.0.5\TCC0.1\bin\Debug\TCC0.1.exe.config
+F:\TCC 1.0.5\TCC0.1\bin\Debug\TCC0.1.exe
+F:\TCC 1.0.5\TCC0.1\bin\Debug\TCC0.1.pdb
+F:\TCC 1.0.5\TCC0.1\bin\Debug\ConectaBancoDados.dll
+F:\TCC 1.0.5\TCC0.1\bin\Debug\Negocios.dll
+F:\TCC 1.0.5\TCC0.1\bin\Debug\TransferenciasDeObjetos.dll
+F:\TCC 1.0.5\TCC0.1\bin\Debug\ConectaBancoDados.pdb
+F:\TCC 1.0.5\TCC0.1\bin\Debug\ConectaBancoDados.dll.config
+F:\TCC 1.0.5\TCC0.1\bin\Debug\Negocios.pdb
+F:\TCC 1.0.5\TCC0.1\bin\Debug\TransferenciasDeObjetos.pdb
+F:\TCC 1.0.5\TCC0.1\obj\Debug\TCC.csprojAssemblyReference.cache
+F:\TCC 1.0.5\TCC0.1\obj\Debug\TCC0._1.Ajuda.resources
+F:\TCC 1.0.5\TCC0.1\obj\Debug\TCC0._1.CadastramentoCliente.resources
+F:\TCC 1.0.5\TCC0.1\obj\Debug\TCC0._1.ConsultaCliente.resources
+F:\TCC 1.0.5\TCC0.1\obj\Debug\TCC0._1.EnvioInformacoes.resources
+F:\TCC 1.0.5\TCC0.1\obj\Debug\TCC0._1.TelaPrincipal.resources
+F:\TCC 1.0.5\TCC0.1\obj\Debug\TCC0._1.Properties.Resources.resources
+F:\TCC 1.0.5\TCC0.1\obj\Debug\TCC0._1.RelatorioDesingn.resources
+F:\TCC 1.0.5\TCC0.1\obj\Debug\TCC.csproj.GenerateResource.cache
+F:\TCC 1.0.5\TCC0.1\obj\Debug\TCC.csproj.CoreCompileInputs.cache
+F:\TCC 1.0.5\TCC0.1\obj\Debug\TCC.csproj.CopyComplete
+F:\TCC 1.0.5\TCC0.1\obj\Debug\TCC0.1.exe
+F:\TCC 1.0.5\TCC0.1\obj\Debug\TCC0.1.pdb
+C:\Users\erisv\OneDrive\Área de Trabalho\TCC 1.0.5\TCC0.1\bin\Debug\TCC0.1.exe.config
+C:\Users\erisv\OneDrive\Área de Trabalho\TCC 1.0.5\TCC0.1\bin\Debug\TCC0.1.exe
+C:\Users\erisv\OneDrive\Área de Trabalho\TCC 1.0.5\TCC0.1\bin\Debug\TCC0.1.pdb
+C:\Users\erisv\OneDrive\Área de Trabalho\TCC 1.0.5\TCC0.1\bin\Debug\ConectaBancoDados.dll
+C:\Users\erisv\OneDrive\Área de Trabalho\TCC 1.0.5\TCC0.1\bin\Debug\Negocios.dll
+C:\Users\erisv\OneDrive\Área de Trabalho\TCC 1.0.5\TCC0.1\bin\Debug\TransferenciasDeObjetos.dll
+C:\Users\erisv\OneDrive\Área de Trabalho\TCC 1.0.5\TCC0.1\bin\Debug\ConectaBancoDados.pdb
+C:\Users\erisv\OneDrive\Área de Trabalho\TCC 1.0.5\TCC0.1\bin\Debug\ConectaBancoDados.dll.config
+C:\Users\erisv\OneDrive\Área de Trabalho\TCC 1.0.5\TCC0.1\bin\Debug\Negocios.pdb
+C:\Users\erisv\OneDrive\Área de Trabalho\TCC 1.0.5\TCC0.1\bin\Debug\TransferenciasDeObjetos.pdb
+C:\Users\erisv\OneDrive\Área de Trabalho\TCC 1.0.5\TCC0.1\obj\Debug\TCC.csprojAssemblyReference.cache
+C:\Users\erisv\OneDrive\Área de Trabalho\TCC 1.0.5\TCC0.1\obj\Debug\TCC0._1.Ajuda.resources
+C:\Users\erisv\OneDrive\Área de Trabalho\TCC 1.0.5\TCC0.1\obj\Debug\TCC0._1.CadastramentoCliente.resources
+C:\Users\erisv\OneDrive\Área de Trabalho\TCC 1.0.5\TCC0.1\obj\Debug\TCC0._1.ConsultaCliente.resources
+C:\Users\erisv\OneDrive\Área de Trabalho\TCC 1.0.5\TCC0.1\obj\Debug\TCC0._1.EnvioInformacoes.resources
+C:\Users\erisv\OneDrive\Área de Trabalho\TCC 1.0.5\TCC0.1\obj\Debug\TCC0._1.TelaPrincipal.resources
+C:\Users\erisv\OneDrive\Área de Trabalho\TCC 1.0.5\TCC0.1\obj\Debug\TCC0._1.Properties.Resources.resources
+C:\Users\erisv\OneDrive\Área de Trabalho\TCC 1.0.5\TCC0.1\obj\Debug\TCC0._1.RelatorioDesingn.resources
+C:\Users\erisv\OneDrive\Área de Trabalho\TCC 1.0.5\TCC0.1\obj\Debug\TCC.csproj.GenerateResource.cache
+C:\Users\erisv\OneDrive\Área de Trabalho\TCC 1.0.5\TCC0.1\obj\Debug\TCC.csproj.CoreCompileInputs.cache
+C:\Users\erisv\OneDrive\Área de Trabalho\TCC 1.0.5\TCC0.1\obj\Debug\TCC.csproj.CopyComplete
+C:\Users\erisv\OneDrive\Área de Trabalho\TCC 1.0.5\TCC0.1\obj\Debug\TCC0.1.exe
+C:\Users\erisv\OneDrive\Área de Trabalho\TCC 1.0.5\TCC0.1\obj\Debug\TCC0.1.pdb
+C:\Users\erisv\OneDrive\Área de Trabalho\TCC 1.0.6\TCC0.1\bin\Debug\TCC0.1.exe.config
+C:\Users\erisv\OneDrive\Área de Trabalho\TCC 1.0.6\TCC0.1\bin\Debug\TCC0.1.exe
+C:\Users\erisv\OneDrive\Área de Trabalho\TCC 1.0.6\TCC0.1\bin\Debug\TCC0.1.pdb
+C:\Users\erisv\OneDrive\Área de Trabalho\TCC 1.0.6\TCC0.1\bin\Debug\ConectaBancoDados.dll
+C:\Users\erisv\OneDrive\Área de Trabalho\TCC 1.0.6\TCC0.1\bin\Debug\Negocios.dll
+C:\Users\erisv\OneDrive\Área de Trabalho\TCC 1.0.6\TCC0.1\bin\Debug\TransferenciasDeObjetos.dll
+C:\Users\erisv\OneDrive\Área de Trabalho\TCC 1.0.6\TCC0.1\bin\Debug\ConectaBancoDados.pdb
+C:\Users\erisv\OneDrive\Área de Trabalho\TCC 1.0.6\TCC0.1\bin\Debug\ConectaBancoDados.dll.config
+C:\Users\erisv\OneDrive\Área de Trabalho\TCC 1.0.6\TCC0.1\bin\Debug\Negocios.pdb
+C:\Users\erisv\OneDrive\Área de Trabalho\TCC 1.0.6\TCC0.1\bin\Debug\TransferenciasDeObjetos.pdb
+C:\Users\erisv\OneDrive\Área de Trabalho\TCC 1.0.6\TCC0.1\obj\Debug\TCC.csprojAssemblyReference.cache
+C:\Users\erisv\OneDrive\Área de Trabalho\TCC 1.0.6\TCC0.1\obj\Debug\TCC0._1.Ajuda.resources
+C:\Users\erisv\OneDrive\Área de Trabalho\TCC 1.0.6\TCC0.1\obj\Debug\TCC0._1.CadastramentoCliente.resources
+C:\Users\erisv\OneDrive\Área de Trabalho\TCC 1.0.6\TCC0.1\obj\Debug\TCC0._1.ConsultaCliente.resources
+C:\Users\erisv\OneDrive\Área de Trabalho\TCC 1.0.6\TCC0.1\obj\Debug\TCC0._1.EnvioInformacoes.resources
+C:\Users\erisv\OneDrive\Área de Trabalho\TCC 1.0.6\TCC0.1\obj\Debug\TCC0._1.TelaPrincipal.resources
+C:\Users\erisv\OneDrive\Área de Trabalho\TCC 1.0.6\TCC0.1\obj\Debug\TCC0._1.Properties.Resources.resources
+C:\Users\erisv\OneDrive\Área de Trabalho\TCC 1.0.6\TCC0.1\obj\Debug\TCC0._1.RelatorioDesingn.resources
+C:\Users\erisv\OneDrive\Área de Trabalho\TCC 1.0.6\TCC0.1\obj\Debug\TCC.csproj.GenerateResource.cache
+C:\Users\erisv\OneDrive\Área de Trabalho\TCC 1.0.6\TCC0.1\obj\Debug\TCC.csproj.CoreCompileInputs.cache
+C:\Users\erisv\OneDrive\Área de Trabalho\TCC 1.0.6\TCC0.1\obj\Debug\TCC.csproj.CopyComplete
+C:\Users\erisv\OneDrive\Área de Trabalho\TCC 1.0.6\TCC0.1\obj\Debug\TCC0.1.exe
+C:\Users\erisv\OneDrive\Área de Trabalho\TCC 1.0.6\TCC0.1\obj\Debug\TCC0.1.pdb
+C:\Users\Aluno\Desktop\Ultima vez que mexi\TCC 1.0.6\TCC0.1\bin\Debug\TCC0.1.exe.config
+C:\Users\Aluno\Desktop\Ultima vez que mexi\TCC 1.0.6\TCC0.1\bin\Debug\TCC0.1.exe
+C:\Users\Aluno\Desktop\Ultima vez que mexi\TCC 1.0.6\TCC0.1\bin\Debug\TCC0.1.pdb
+C:\Users\Aluno\Desktop\Ultima vez que mexi\TCC 1.0.6\TCC0.1\bin\Debug\ConectaBancoDados.dll
+C:\Users\Aluno\Desktop\Ultima vez que mexi\TCC 1.0.6\TCC0.1\bin\Debug\Negocios.dll
+C:\Users\Aluno\Desktop\Ultima vez que mexi\TCC 1.0.6\TCC0.1\bin\Debug\TransferenciasDeObjetos.dll
+C:\Users\Aluno\Desktop\Ultima vez que mexi\TCC 1.0.6\TCC0.1\bin\Debug\ConectaBancoDados.pdb
+C:\Users\Aluno\Desktop\Ultima vez que mexi\TCC 1.0.6\TCC0.1\bin\Debug\ConectaBancoDados.dll.config
+C:\Users\Aluno\Desktop\Ultima vez que mexi\TCC 1.0.6\TCC0.1\bin\Debug\Negocios.pdb
+C:\Users\Aluno\Desktop\Ultima vez que mexi\TCC 1.0.6\TCC0.1\bin\Debug\TransferenciasDeObjetos.pdb
+C:\Users\Aluno\Desktop\Ultima vez que mexi\TCC 1.0.6\TCC0.1\obj\Debug\TCC.csprojAssemblyReference.cache
+C:\Users\Aluno\Desktop\Ultima vez que mexi\TCC 1.0.6\TCC0.1\obj\Debug\TCC0._1.Ajuda.resources
+C:\Users\Aluno\Desktop\Ultima vez que mexi\TCC 1.0.6\TCC0.1\obj\Debug\TCC0._1.CadastramentoCliente.resources
+C:\Users\Aluno\Desktop\Ultima vez que mexi\TCC 1.0.6\TCC0.1\obj\Debug\TCC0._1.ConsultaCliente.resources
+C:\Users\Aluno\Desktop\Ultima vez que mexi\TCC 1.0.6\TCC0.1\obj\Debug\TCC0._1.EnvioInformacoes.resources
+C:\Users\Aluno\Desktop\Ultima vez que mexi\TCC 1.0.6\TCC0.1\obj\Debug\TCC0._1.TelaPrincipal.resources
+C:\Users\Aluno\Desktop\Ultima vez que mexi\TCC 1.0.6\TCC0.1\obj\Debug\TCC0._1.Properties.Resources.resources
+C:\Users\Aluno\Desktop\Ultima vez que mexi\TCC 1.0.6\TCC0.1\obj\Debug\TCC0._1.RelatorioDesingn.resources
+C:\Users\Aluno\Desktop\Ultima vez que mexi\TCC 1.0.6\TCC0.1\obj\Debug\TCC.csproj.GenerateResource.cache
+C:\Users\Aluno\Desktop\Ultima vez que mexi\TCC 1.0.6\TCC0.1\obj\Debug\TCC.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Desktop\Ultima vez que mexi\TCC 1.0.6\TCC0.1\obj\Debug\TCC.csproj.CopyComplete
+C:\Users\Aluno\Desktop\Ultima vez que mexi\TCC 1.0.6\TCC0.1\obj\Debug\TCC0.1.exe
+C:\Users\Aluno\Desktop\Ultima vez que mexi\TCC 1.0.6\TCC0.1\obj\Debug\TCC0.1.pdb
+C:\Users\erisv\OneDrive\Área de Trabalho\Ultima vez que mexi\TCC 1.0.6\TCC0.1\bin\Debug\TCC0.1.exe.config
+C:\Users\erisv\OneDrive\Área de Trabalho\Ultima vez que mexi\TCC 1.0.6\TCC0.1\bin\Debug\TCC0.1.exe
+C:\Users\erisv\OneDrive\Área de Trabalho\Ultima vez que mexi\TCC 1.0.6\TCC0.1\bin\Debug\TCC0.1.pdb
+C:\Users\erisv\OneDrive\Área de Trabalho\Ultima vez que mexi\TCC 1.0.6\TCC0.1\bin\Debug\ConectaBancoDados.dll
+C:\Users\erisv\OneDrive\Área de Trabalho\Ultima vez que mexi\TCC 1.0.6\TCC0.1\bin\Debug\Negocios.dll
+C:\Users\erisv\OneDrive\Área de Trabalho\Ultima vez que mexi\TCC 1.0.6\TCC0.1\bin\Debug\TransferenciasDeObjetos.dll
+C:\Users\erisv\OneDrive\Área de Trabalho\Ultima vez que mexi\TCC 1.0.6\TCC0.1\bin\Debug\ConectaBancoDados.pdb
+C:\Users\erisv\OneDrive\Área de Trabalho\Ultima vez que mexi\TCC 1.0.6\TCC0.1\bin\Debug\ConectaBancoDados.dll.config
+C:\Users\erisv\OneDrive\Área de Trabalho\Ultima vez que mexi\TCC 1.0.6\TCC0.1\bin\Debug\Negocios.pdb
+C:\Users\erisv\OneDrive\Área de Trabalho\Ultima vez que mexi\TCC 1.0.6\TCC0.1\bin\Debug\TransferenciasDeObjetos.pdb
+C:\Users\erisv\OneDrive\Área de Trabalho\Ultima vez que mexi\TCC 1.0.6\TCC0.1\obj\Debug\TCC.csprojAssemblyReference.cache
+C:\Users\erisv\OneDrive\Área de Trabalho\Ultima vez que mexi\TCC 1.0.6\TCC0.1\obj\Debug\TCC0._1.Ajuda.resources
+C:\Users\erisv\OneDrive\Área de Trabalho\Ultima vez que mexi\TCC 1.0.6\TCC0.1\obj\Debug\TCC0._1.CadastramentoCliente.resources
+C:\Users\erisv\OneDrive\Área de Trabalho\Ultima vez que mexi\TCC 1.0.6\TCC0.1\obj\Debug\TCC0._1.ConsultaCliente.resources
+C:\Users\erisv\OneDrive\Área de Trabalho\Ultima vez que mexi\TCC 1.0.6\TCC0.1\obj\Debug\TCC0._1.EnvioInformacoes.resources
+C:\Users\erisv\OneDrive\Área de Trabalho\Ultima vez que mexi\TCC 1.0.6\TCC0.1\obj\Debug\TCC0._1.TelaPrincipal.resources
+C:\Users\erisv\OneDrive\Área de Trabalho\Ultima vez que mexi\TCC 1.0.6\TCC0.1\obj\Debug\TCC0._1.Properties.Resources.resources
+C:\Users\erisv\OneDrive\Área de Trabalho\Ultima vez que mexi\TCC 1.0.6\TCC0.1\obj\Debug\TCC0._1.RelatorioDesingn.resources
+C:\Users\erisv\OneDrive\Área de Trabalho\Ultima vez que mexi\TCC 1.0.6\TCC0.1\obj\Debug\TCC.csproj.GenerateResource.cache
+C:\Users\erisv\OneDrive\Área de Trabalho\Ultima vez que mexi\TCC 1.0.6\TCC0.1\obj\Debug\TCC.csproj.CoreCompileInputs.cache
+C:\Users\erisv\OneDrive\Área de Trabalho\Ultima vez que mexi\TCC 1.0.6\TCC0.1\obj\Debug\TCC.csproj.CopyComplete
+C:\Users\erisv\OneDrive\Área de Trabalho\Ultima vez que mexi\TCC 1.0.6\TCC0.1\obj\Debug\TCC0.1.exe
+C:\Users\erisv\OneDrive\Área de Trabalho\Ultima vez que mexi\TCC 1.0.6\TCC0.1\obj\Debug\TCC0.1.pdb
+C:\Users\erisv\OneDrive\Área de Trabalho\Ultima vez que mexi\TCC 1.1\TCC0.1\bin\Debug\TCC0.1.exe.config
+C:\Users\erisv\OneDrive\Área de Trabalho\Ultima vez que mexi\TCC 1.1\TCC0.1\bin\Debug\TCC0.1.exe
+C:\Users\erisv\OneDrive\Área de Trabalho\Ultima vez que mexi\TCC 1.1\TCC0.1\bin\Debug\TCC0.1.pdb
+C:\Users\erisv\OneDrive\Área de Trabalho\Ultima vez que mexi\TCC 1.1\TCC0.1\bin\Debug\ConectaBancoDados.dll
+C:\Users\erisv\OneDrive\Área de Trabalho\Ultima vez que mexi\TCC 1.1\TCC0.1\bin\Debug\Negocios.dll
+C:\Users\erisv\OneDrive\Área de Trabalho\Ultima vez que mexi\TCC 1.1\TCC0.1\bin\Debug\TransferenciasDeObjetos.dll
+C:\Users\erisv\OneDrive\Área de Trabalho\Ultima vez que mexi\TCC 1.1\TCC0.1\bin\Debug\ConectaBancoDados.pdb
+C:\Users\erisv\OneDrive\Área de Trabalho\Ultima vez que mexi\TCC 1.1\TCC0.1\bin\Debug\ConectaBancoDados.dll.config
+C:\Users\erisv\OneDrive\Área de Trabalho\Ultima vez que mexi\TCC 1.1\TCC0.1\bin\Debug\Negocios.pdb
+C:\Users\erisv\OneDrive\Área de Trabalho\Ultima vez que mexi\TCC 1.1\TCC0.1\bin\Debug\TransferenciasDeObjetos.pdb
+C:\Users\erisv\OneDrive\Área de Trabalho\Ultima vez que mexi\TCC 1.1\TCC0.1\obj\Debug\TCC.csprojAssemblyReference.cache
+C:\Users\erisv\OneDrive\Área de Trabalho\Ultima vez que mexi\TCC 1.1\TCC0.1\obj\Debug\TCC0._1.Ajuda.resources
+C:\Users\erisv\OneDrive\Área de Trabalho\Ultima vez que mexi\TCC 1.1\TCC0.1\obj\Debug\TCC0._1.CadastramentoCliente.resources
+C:\Users\erisv\OneDrive\Área de Trabalho\Ultima vez que mexi\TCC 1.1\TCC0.1\obj\Debug\TCC0._1.ConsultaCliente.resources
+C:\Users\erisv\OneDrive\Área de Trabalho\Ultima vez que mexi\TCC 1.1\TCC0.1\obj\Debug\TCC0._1.EnvioInformacoes.resources
+C:\Users\erisv\OneDrive\Área de Trabalho\Ultima vez que mexi\TCC 1.1\TCC0.1\obj\Debug\TCC0._1.TelaPrincipal.resources
+C:\Users\erisv\OneDrive\Área de Trabalho\Ultima vez que mexi\TCC 1.1\TCC0.1\obj\Debug\TCC0._1.Properties.Resources.resources
+C:\Users\erisv\OneDrive\Área de Trabalho\Ultima vez que mexi\TCC 1.1\TCC0.1\obj\Debug\TCC0._1.RelatorioDesingn.resources
+C:\Users\erisv\OneDrive\Área de Trabalho\Ultima vez que mexi\TCC 1.1\TCC0.1\obj\Debug\TCC.csproj.GenerateResource.cache
+C:\Users\erisv\OneDrive\Área de Trabalho\Ultima vez que mexi\TCC 1.1\TCC0.1\obj\Debug\TCC.csproj.CoreCompileInputs.cache
+C:\Users\erisv\OneDrive\Área de Trabalho\Ultima vez que mexi\TCC 1.1\TCC0.1\obj\Debug\TCC.csproj.CopyComplete
+C:\Users\erisv\OneDrive\Área de Trabalho\Ultima vez que mexi\TCC 1.1\TCC0.1\obj\Debug\TCC0.1.exe
+C:\Users\erisv\OneDrive\Área de Trabalho\Ultima vez que mexi\TCC 1.1\TCC0.1\obj\Debug\TCC0.1.pdb
+C:\Users\CaynanHyago\Desktop\Ultima vez que mexi\TCC 1.1\TCC0.1\bin\Debug\TCC0.1.exe.config
+C:\Users\CaynanHyago\Desktop\Ultima vez que mexi\TCC 1.1\TCC0.1\bin\Debug\TCC0.1.exe
+C:\Users\CaynanHyago\Desktop\Ultima vez que mexi\TCC 1.1\TCC0.1\bin\Debug\TCC0.1.pdb
+C:\Users\CaynanHyago\Desktop\Ultima vez que mexi\TCC 1.1\TCC0.1\bin\Debug\ConectaBancoDados.dll
+C:\Users\CaynanHyago\Desktop\Ultima vez que mexi\TCC 1.1\TCC0.1\bin\Debug\Negocios.dll
+C:\Users\CaynanHyago\Desktop\Ultima vez que mexi\TCC 1.1\TCC0.1\bin\Debug\TransferenciasDeObjetos.dll
+C:\Users\CaynanHyago\Desktop\Ultima vez que mexi\TCC 1.1\TCC0.1\bin\Debug\ConectaBancoDados.pdb
+C:\Users\CaynanHyago\Desktop\Ultima vez que mexi\TCC 1.1\TCC0.1\bin\Debug\ConectaBancoDados.dll.config
+C:\Users\CaynanHyago\Desktop\Ultima vez que mexi\TCC 1.1\TCC0.1\bin\Debug\Negocios.pdb
+C:\Users\CaynanHyago\Desktop\Ultima vez que mexi\TCC 1.1\TCC0.1\bin\Debug\TransferenciasDeObjetos.pdb
+C:\Users\CaynanHyago\Desktop\Ultima vez que mexi\TCC 1.1\TCC0.1\obj\Debug\TCC.csprojAssemblyReference.cache
+C:\Users\CaynanHyago\Desktop\Ultima vez que mexi\TCC 1.1\TCC0.1\obj\Debug\TCC0._1.Ajuda.resources
+C:\Users\CaynanHyago\Desktop\Ultima vez que mexi\TCC 1.1\TCC0.1\obj\Debug\TCC0._1.CadastramentoCliente.resources
+C:\Users\CaynanHyago\Desktop\Ultima vez que mexi\TCC 1.1\TCC0.1\obj\Debug\TCC0._1.ConsultaCliente.resources
+C:\Users\CaynanHyago\Desktop\Ultima vez que mexi\TCC 1.1\TCC0.1\obj\Debug\TCC0._1.EnvioInformacoes.resources
+C:\Users\CaynanHyago\Desktop\Ultima vez que mexi\TCC 1.1\TCC0.1\obj\Debug\TCC0._1.TelaPrincipal.resources
+C:\Users\CaynanHyago\Desktop\Ultima vez que mexi\TCC 1.1\TCC0.1\obj\Debug\TCC0._1.Properties.Resources.resources
+C:\Users\CaynanHyago\Desktop\Ultima vez que mexi\TCC 1.1\TCC0.1\obj\Debug\TCC0._1.RelatorioDesingn.resources
+C:\Users\CaynanHyago\Desktop\Ultima vez que mexi\TCC 1.1\TCC0.1\obj\Debug\TCC.csproj.GenerateResource.cache
+C:\Users\CaynanHyago\Desktop\Ultima vez que mexi\TCC 1.1\TCC0.1\obj\Debug\TCC.csproj.CoreCompileInputs.cache
+C:\Users\CaynanHyago\Desktop\Ultima vez que mexi\TCC 1.1\TCC0.1\obj\Debug\TCC.csproj.CopyComplete
+C:\Users\CaynanHyago\Desktop\Ultima vez que mexi\TCC 1.1\TCC0.1\obj\Debug\TCC0.1.exe
+C:\Users\CaynanHyago\Desktop\Ultima vez que mexi\TCC 1.1\TCC0.1\obj\Debug\TCC0.1.pdb
+F:\Ultima vez que mexi\TCC 1.1\TCC0.1\bin\Debug\TCC0.1.exe.config
+F:\Ultima vez que mexi\TCC 1.1\TCC0.1\bin\Debug\TCC0.1.exe
+F:\Ultima vez que mexi\TCC 1.1\TCC0.1\bin\Debug\TCC0.1.pdb
+F:\Ultima vez que mexi\TCC 1.1\TCC0.1\bin\Debug\ConectaBancoDados.dll
+F:\Ultima vez que mexi\TCC 1.1\TCC0.1\bin\Debug\Negocios.dll
+F:\Ultima vez que mexi\TCC 1.1\TCC0.1\bin\Debug\TransferenciasDeObjetos.dll
+F:\Ultima vez que mexi\TCC 1.1\TCC0.1\bin\Debug\ConectaBancoDados.pdb
+F:\Ultima vez que mexi\TCC 1.1\TCC0.1\bin\Debug\ConectaBancoDados.dll.config
+F:\Ultima vez que mexi\TCC 1.1\TCC0.1\bin\Debug\Negocios.pdb
+F:\Ultima vez que mexi\TCC 1.1\TCC0.1\bin\Debug\TransferenciasDeObjetos.pdb
+F:\Ultima vez que mexi\TCC 1.1\TCC0.1\obj\Debug\TCC.csprojAssemblyReference.cache
+F:\Ultima vez que mexi\TCC 1.1\TCC0.1\obj\Debug\TCC0._1.Ajuda.resources
+F:\Ultima vez que mexi\TCC 1.1\TCC0.1\obj\Debug\TCC0._1.CadastramentoCliente.resources
+F:\Ultima vez que mexi\TCC 1.1\TCC0.1\obj\Debug\TCC0._1.ConsultaCliente.resources
+F:\Ultima vez que mexi\TCC 1.1\TCC0.1\obj\Debug\TCC0._1.EnvioInformacoes.resources
+F:\Ultima vez que mexi\TCC 1.1\TCC0.1\obj\Debug\TCC0._1.TelaPrincipal.resources
+F:\Ultima vez que mexi\TCC 1.1\TCC0.1\obj\Debug\TCC0._1.Properties.Resources.resources
+F:\Ultima vez que mexi\TCC 1.1\TCC0.1\obj\Debug\TCC0._1.RelatorioDesingn.resources
+F:\Ultima vez que mexi\TCC 1.1\TCC0.1\obj\Debug\TCC.csproj.GenerateResource.cache
+F:\Ultima vez que mexi\TCC 1.1\TCC0.1\obj\Debug\TCC.csproj.CoreCompileInputs.cache
+F:\Ultima vez que mexi\TCC 1.1\TCC0.1\obj\Debug\TCC.csproj.CopyComplete
+F:\Ultima vez que mexi\TCC 1.1\TCC0.1\obj\Debug\TCC0.1.exe
+F:\Ultima vez que mexi\TCC 1.1\TCC0.1\obj\Debug\TCC0.1.pdb
